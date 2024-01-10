@@ -1,6 +1,6 @@
 $TTL 1H
 @       IN      SOA LOCALHOST. localhost.localhost. (
-                2023123001     ; Serial
+                2024011001     ; Serial
                 1h              ; Refresh
                 15m             ; Retry
                 30d             ; Expire
@@ -1573,3 +1573,8 @@ zedoflix.com	        IN CNAME .
 zetatraders.com	        IN CNAME .
 zfilmesonline.net	        IN CNAME .
 zseriesmegadrive.xyz	        IN CNAME .
+h5.tuq.xyz		IN CNAME .
+pgjogo.com		IN CNAME .
+spicys.bet		IN CNAME .
+bbrbet.com		IN CNAME .
+sunybet.com		IN CNAME .
