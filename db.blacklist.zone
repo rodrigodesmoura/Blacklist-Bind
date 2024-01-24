@@ -1,6 +1,6 @@
 $TTL 1H
 @       IN      SOA LOCALHOST. localhost.localhost. (
-                2024011701     ; Serial
+                2024012401     ; Serial
                 1h              ; Refresh
                 15m             ; Retry
                 30d             ; Expire
@@ -154,8 +154,13 @@ blaze-1.com	        IN CNAME .
 blaze-2.com	        IN CNAME .
 blaze-3.com	        IN CNAME .
 blaze-4.com	        IN CNAME .
+blaze-5.com	        IN CNAME .
+blaze-6.com	        IN CNAME .
+blaze-7.com	        IN CNAME .
+blaze88.com	        IN CNAME .
 blaze.com	        IN CNAME .
 blaze.com.br	        IN CNAME .
+
 blazemirror.com	        IN CNAME .
 bluf.online	        IN CNAME .
 bobtvonline.negocio.site	        IN CNAME .
