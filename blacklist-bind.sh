@@ -60,7 +60,7 @@ else
 fi
 
 # Baixa o arquivo da URL fornecida  // Contribuição --no-check-certificate por Romerito Brandão //
-wget --no-check-certificate http://ENDEREÇO_SERVIDOR_WEB/db.blacklist.zone -O db.blacklist.zone.tmp
+wget --no-check-certificate https://raw.githubusercontent.com/rodrigodesmoura/Blacklist-Bind/main/db.blacklist.zone -O db.blacklist.zone.tmp
 # Compara o arquivo baixado com o arquivo local
 diff db.blacklist.zone.tmp /var/cache/bind/blacklist/db.blacklist.zone > /dev/null
 # Se os arquivos forem diferentes, substitui o arquivo local pelo baixado
