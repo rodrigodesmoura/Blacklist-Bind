@@ -1,6 +1,6 @@
 $TTL 1H
 @       IN      SOA LOCALHOST. localhost.localhost. (
-                2024022801     ; Serial
+                2024030501     ; Serial
                 1h              ; Refresh
                 15m             ; Retry
                 30d             ; Expire
@@ -3255,12 +3255,15 @@ redecanais.cc            IN CNAME .
 redecanais.ch            IN CNAME .
 redecanais.com            IN CNAME .
 redecanais.cx            IN CNAME .
+redecanais.cz            IN CNAME .
 redecanais.football            IN CNAME .
 redecanais.fun            IN CNAME .
 redecanais.futbol            IN CNAME .
+redecanais.gratis            IN CNAME .
 redecanais.in            IN CNAME .
 redecanais.ink            IN CNAME .
 redecanais.la            IN CNAME .
+redecanais.love            IN CNAME .
 redecanais.me            IN CNAME .
 redecanais.mom            IN CNAME .
 redecanais.pm            IN CNAME .
