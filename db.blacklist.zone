@@ -1,6 +1,6 @@
 $TTL 1H
 @       IN      SOA LOCALHOST. localhost.localhost. (
-                2024030501     ; Serial
+                2024031201     ; Serial
                 1h              ; Refresh
                 15m             ; Retry
                 30d             ; Expire
@@ -207,6 +207,7 @@ animesonlinex.cx            IN CNAME .
 animesonlinex.nz            IN CNAME .
 animesonlinex.org            IN CNAME .
 animesonlinex.xyz            IN CNAME .
+aovivo.click            IN CNAME .
 aovivo.club            IN CNAME .
 aovivo.gratis            IN CNAME .
 aovivo.pro            IN CNAME .
@@ -617,12 +618,17 @@ brasilflix.tv            IN CNAME .
 brasilflix.vip            IN CNAME .
 brasiltvexpress.com            IN CNAME .
 brfilmesonline.com            IN CNAME .
+brfilmestorrent.com            IN CNAME .
 brfilmestorrent.org            IN CNAME .
 brnasruas.com.br            IN CNAME .
+brtorrent.org            IN CNAME .
+brtorrent2.org            IN CNAME .
 brtorrentfilmes.net            IN CNAME .
+brtorrenthd.com            IN CNAME .
 brtorrenthd.org            IN CNAME .
 brtorrents.org            IN CNAME .
 brtorrentshd.org            IN CNAME .
+brtorrentz.com            IN CNAME .
 btclod.com            IN CNAME .
 btvexpress.com            IN CNAME .
 c2n.one            IN CNAME .
@@ -1802,6 +1808,7 @@ futebolplayhd.pro            IN CNAME .
 futebolplayhd.vip            IN CNAME .
 futebolplayhdbrasil.com.br            IN CNAME .
 futebolvivo.net            IN CNAME .
+futecell.com            IN CNAME .
 futeflix.online            IN CNAME .
 futemax-app.net            IN CNAME .
 futemax-futebol.com.br            IN CNAME .
@@ -2056,6 +2063,7 @@ hiperflixhd.net            IN CNAME .
 hiperflixhd.to            IN CNAME .
 hiperflixtv.com            IN CNAME .
 hipertv.live            IN CNAME .
+hypeflix.net            IN CNAME .
 hypeflix.site            IN CNAME .
 ibomma.homes            IN CNAME .
 icefilms.tv            IN CNAME .
@@ -2358,6 +2366,7 @@ megafilmetorrents.com            IN CNAME .
 megaflix-hd.online            IN CNAME .
 megaflix.ac            IN CNAME .
 megaflix.app            IN CNAME .
+megaflix.blog            IN CNAME .
 megaflix.bz            IN CNAME .
 megaflix.cc            IN CNAME .
 megaflix.click            IN CNAME .
@@ -2376,6 +2385,7 @@ megaflix.love            IN CNAME .
 megaflix.me            IN CNAME .
 megaflix.media            IN CNAME .
 megaflix.mobi            IN CNAME .
+megaflix.nu            IN CNAME .
 megaflix.online            IN CNAME .
 megaflix.plus            IN CNAME .
 megaflix.pro            IN CNAME .
@@ -2495,6 +2505,7 @@ megatorrent.fun            IN CNAME .
 megatorrent.net            IN CNAME .
 megatorrent.tv            IN CNAME .
 megatorrent4k.com            IN CNAME .
+megatorrent4k.site            IN CNAME .
 megatorrentes.online            IN CNAME .
 megatorrentflix.com            IN CNAME .
 megatorrenthd.org            IN CNAME .
@@ -2642,13 +2653,17 @@ mrfilmesonline.com            IN CNAME .
 multicanais-tv.free4k.net            IN CNAME .
 multicanais-tv.tvonline2.info            IN CNAME .
 multicanais.app            IN CNAME .
+multicanais.bet            IN CNAME .
 multicanais.bid            IN CNAME .
 multicanais.bz            IN CNAME .
 multicanais.cc            IN CNAME .
+multicanais.cfd            IN CNAME .
+multicanais.cl            IN CNAME .
 multicanais.club            IN CNAME .
 multicanais.co            IN CNAME .
 multicanais.com            IN CNAME .
 multicanais.cx            IN CNAME .
+multicanais.cyou            IN CNAME .
 multicanais.cz            IN CNAME .
 multicanais.fans            IN CNAME .
 multicanais.fit            IN CNAME .
@@ -2660,6 +2675,8 @@ multicanais.in            IN CNAME .
 multicanais.la            IN CNAME .
 multicanais.lc            IN CNAME .
 multicanais.li            IN CNAME .
+multicanais.live            IN CNAME .
+multicanais.llc            IN CNAME .
 multicanais.ltd            IN CNAME .
 multicanais.nu            IN CNAME .
 multicanais.nz            IN CNAME .
@@ -2678,16 +2695,21 @@ multicanais.tudoaovivo.com.br            IN CNAME .
 multicanais.tv            IN CNAME .
 multicanais.uno            IN CNAME .
 multicanais.vc            IN CNAME .
+multicanais.vg            IN CNAME .
 multicanais.video            IN CNAME .
 multicanais.vin            IN CNAME .
 multicanais.vip            IN CNAME .
+multicanais.website            IN CNAME .
+multicanais.win            IN CNAME .
 multicanais.xyz            IN CNAME .
 multicanais1.com            IN CNAME .
 multicanais1.live            IN CNAME .
 multicanais2.com            IN CNAME .
 multicanaisaovivo.com.br            IN CNAME .
+multicanaishd.com            IN CNAME .
 multicanaisplus.com            IN CNAME .
 multicanaistv.com            IN CNAME .
+multicanaisweb.blogspot.com            IN CNAME .
 multicanal.io            IN CNAME .
 multicanal.live            IN CNAME .
 multicanal.org            IN CNAME .
@@ -2846,6 +2868,7 @@ ondebaixo4k.com            IN CNAME .
 ondebaixofilmes.com            IN CNAME .
 ondebaixofilmes.me            IN CNAME .
 ondebaixotorrent.com            IN CNAME .
+oneflix.one            IN CNAME .
 oneflix.top            IN CNAME .
 oneprimetv.me            IN CNAME .
 onlinefilmeshd.com.br            IN CNAME .
@@ -3331,6 +3354,7 @@ redplaytvrecarga.com            IN CNAME .
 redplaytvs.com            IN CNAME .
 redplayulltra.com            IN CNAME .
 redplayultra.com            IN CNAME .
+reidoscanais.com            IN CNAME .
 repelisplus.app            IN CNAME .
 repelisplus.baby            IN CNAME .
 repelisplus.bar            IN CNAME .
@@ -3547,6 +3571,7 @@ seriesonline.digital            IN CNAME .
 seriesonline.fm            IN CNAME .
 seriesonline.gg            IN CNAME .
 seriesonline.id            IN CNAME .
+seriesonline.ink            IN CNAME .
 seriesonline.la            IN CNAME .
 seriesonline.lat            IN CNAME .
 seriesonline.life            IN CNAME .
@@ -3666,6 +3691,7 @@ soap2day-to.to            IN CNAME .
 soap2day.ninja            IN CNAME .
 soap2days.tv            IN CNAME .
 sofilmeshd.com.br            IN CNAME .
+sofilmestorrent.com.br            IN CNAME .
 soseries.net            IN CNAME .
 spaceflix.org            IN CNAME .
 spfilmesonline.com            IN CNAME .
@@ -3799,6 +3825,7 @@ superflix20.net            IN CNAME .
 superflix20.org            IN CNAME .
 superflix3.com            IN CNAME .
 superflix4k.net            IN CNAME .
+superflix4k.vip            IN CNAME .
 superflix4k.xyz            IN CNAME .
 superflixanimes.com            IN CNAME .
 superflixapi.com            IN CNAME .
@@ -3808,6 +3835,7 @@ superflixapk.com            IN CNAME .
 superflixbr.co            IN CNAME .
 superflixbr.com            IN CNAME .
 superflixbr.live            IN CNAME .
+superflixcanais.com            IN CNAME .
 superflixfilme.com            IN CNAME .
 superflixfilmes.com            IN CNAME .
 superflixfilmes.net            IN CNAME .
@@ -3866,10 +3894,12 @@ supertela.re            IN CNAME .
 supertela.se            IN CNAME .
 supertela.site            IN CNAME .
 supertela.skin            IN CNAME .
+supertela.top            IN CNAME .
 supertela.vip            IN CNAME .
 supertela.wf            IN CNAME .
 supertela.xyz            IN CNAME .
 supertela.zip            IN CNAME .
+supertela1.com            IN CNAME .
 supertelaiptv.online            IN CNAME .
 supertv.digital            IN CNAME .
 supertv.online            IN CNAME .
@@ -3920,6 +3950,7 @@ tabonitobrasiltv.com            IN CNAME .
 tabonitobrasilz.com            IN CNAME .
 tecnotv.club            IN CNAME .
 telaflix.live            IN CNAME .
+telaflix.pro            IN CNAME .
 telamix.live            IN CNAME .
 telamix.net            IN CNAME .
 telona.net            IN CNAME .
@@ -4135,9 +4166,11 @@ torrentfilme.cc            IN CNAME .
 torrentfilme.link            IN CNAME .
 torrentfilme.org            IN CNAME .
 torrentfilmehd.com            IN CNAME .
+torrentfilmes.cc            IN CNAME .
 torrentfilmes.com.br            IN CNAME .
 torrentfilmes.fun            IN CNAME .
 torrentfilmes.net            IN CNAME .
+torrentfilmes.one            IN CNAME .
 torrentfilmes.org            IN CNAME .
 torrentfilmes.tv            IN CNAME .
 torrentfilmes4k.com            IN CNAME .
@@ -4510,6 +4543,7 @@ wolverdonfilmes.me            IN CNAME .
 wolverdonfilmes.to            IN CNAME .
 wolverdonfilmes.tv            IN CNAME .
 wolverdonfilmesx.com            IN CNAME .
+wolverdontorrent.com            IN CNAME .
 wolverdonx.com            IN CNAME .
 wthepiratefilme.fun            IN CNAME .
 wthepiratefilme.net            IN CNAME .
