@@ -27,7 +27,7 @@ echo 'zone "blacklist.zone" {
 };' | tee -a /etc/bind/named.conf.local
 
 # Adicionando ao arquivo /etc/bind/named.conf.options
-sed -i '$i response-policy {\n    zone "blacklist.zone" policy CNAME localhost;\n};' /etc/bind/named.conf.options
+sed -i '$i response-policy {\n    zone "blacklist.zone" policy CNAME anatel.net.br;\n};' /etc/bind/named.conf.options
 
 # Informando que a zona de blacklist foi criada
 echo "A zona de blacklist foi criada."
