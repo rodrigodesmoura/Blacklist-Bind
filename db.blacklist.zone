@@ -1,6 +1,6 @@
 $TTL 1H
 @       IN      SOA LOCALHOST. localhost.localhost. (
-                2024041001     ; Serial
+                2024041002     ; Serial
                 1h              ; Refresh
                 15m             ; Retry
                 30d             ; Expire
@@ -5146,3 +5146,14 @@ ultraflix.cloud                        IN CNAME .
 ultraflix.net                        IN CNAME .
 vizer.club                        IN CNAME .
 youcine.to                        IN CNAME .
+topfilmestorrent.net                        IN CNAME .
+hiperfilmestorrent.com                        IN CNAME .
+megaflix.sh                        IN CNAME .
+megaflixapk.com                        IN CNAME .
+megaflixhd.online                        IN CNAME .
+megaflixs.online                        IN CNAME .
+netfilm.app                        IN CNAME .
+netcineproxy.info                        IN CNAME .
+seriesflix.fit                        IN CNAME .
+seriesonline.tax                        IN CNAME .
+supertela.vg                        IN CNAME .
