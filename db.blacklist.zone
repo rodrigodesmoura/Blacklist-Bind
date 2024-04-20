@@ -1,6 +1,6 @@
 $TTL 1H
 @       IN      SOA LOCALHOST. localhost.localhost. (
-                2024041002     ; Serial
+                2024042001     ; Serial
                 1h              ; Refresh
                 15m             ; Retry
                 30d             ; Expire
@@ -5157,3 +5157,19 @@ netcineproxy.info                        IN CNAME .
 seriesflix.fit                        IN CNAME .
 seriesonline.tax                        IN CNAME .
 supertela.vg                        IN CNAME .
+cinevision2.com            IN CNAME .
+torrentfilmes.pro            IN CNAME .
+filmestorrentbr.com.br            IN CNAME .
+megatorrenthd1.com            IN CNAME .
+multicanais.lu            IN CNAME .
+netcine.vg            IN CNAME .
+superflix.watch            IN CNAME .
+multicanais.uk            IN CNAME .
+multicanais.pw            IN CNAME .
+multicanais.lu            IN CNAME .
+multicanais.guru            IN CNAME .
+multicanaistv1.com            IN CNAME .
+futemax1.online            IN CNAME .
+multicanais.wf            IN CNAME .
+superflixcanais.net            IN CNAME .
+superflixplay.com            IN CNAME .
