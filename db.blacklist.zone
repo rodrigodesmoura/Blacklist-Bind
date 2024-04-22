@@ -1,6 +1,6 @@
 $TTL 1H
 @       IN      SOA LOCALHOST. localhost.localhost. (
-                2024042001     ; Serial
+                2024042201     ; Serial
                 1h              ; Refresh
                 15m             ; Retry
                 30d             ; Expire
@@ -5173,3 +5173,22 @@ futemax1.online            IN CNAME .
 multicanais.wf            IN CNAME .
 superflixcanais.net            IN CNAME .
 superflixplay.com            IN CNAME .
+3cuevana3.me            IN CNAME .
+3cuevana3.mobi            IN CNAME .
+cuevana10.design            IN CNAME .
+cuevana-3.fm            IN CNAME .
+cuevana.org.pe            IN CNAME .
+lacuevana.org            IN CNAME .
+lacuevana.co            IN CNAME .
+vertvonline.tv            IN CNAME .
+overflix.cfd            IN CNAME .
+overflix.gift            IN CNAME .
+redplaycardpremium.com            IN CNAME .
+redplaybrasil.com            IN CNAME .
+tvexpressbrasil.pro            IN CNAME .
+goflix1.com            IN CNAME .
+twoflix2.com            IN CNAME .
+compretyflex.online            IN CNAME .
+tyflexsite.online            IN CNAME .
+tyflex-filmeseseries.online            IN CNAME .
+tyflex-oficial.shop            IN CNAME .
