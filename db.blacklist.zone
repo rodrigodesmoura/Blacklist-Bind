@@ -1,13 +1,12 @@
 $TTL 1H
 @       IN      SOA LOCALHOST. localhost.localhost. (
-                2024042201     ; Serial
+                2024051001     ; Serial
                 1h              ; Refresh
                 15m             ; Retry
                 30d             ; Expire
                 2h              ; Negative Cache TTL
         )
         NS  localhost.
-
 
 0123movie.net            IN CNAME .
 0123movie.ru            IN CNAME .
@@ -1463,6 +1462,8 @@ embedflix.net            IN CNAME .
 embedflix.online            IN CNAME .
 en.y2mate.ac            IN CNAME .
 en1.tubidy.pics            IN CNAME .
+encrypted-encrypted-encrypted-encrypted-encrypted-encrypted.link            IN CNAME .
+encrypted-encryptedencrypted-encrypted-encrypted-encrypted.link            IN CNAME .
 enviosredplay.agencia-ads.com            IN CNAME .
 epg.bz            IN CNAME .
 esportenatv.net            IN CNAME .
@@ -5190,3 +5191,82 @@ compretyflex.online            IN CNAME .
 tyflexsite.online            IN CNAME .
 tyflex-filmeseseries.online            IN CNAME .
 tyflex-oficial.shop            IN CNAME .
+123moviefree.quest            IN CNAME .
+free123movies.li            IN CNAME .
+123movies.casino            IN CNAME .
+123movies4u.ink            IN CNAME .
+123-movies.cfd            IN CNAME .
+123moviesfree.meme            IN CNAME .
+123movieshub.day            IN CNAME .
+bflixgg.city            IN CNAME .
+cuevana8.live            IN CNAME .
+decuevana3.com            IN CNAME .
+cuevana3hd.mx            IN CNAME .
+icuevana3.skin            IN CNAME .
+lacuevana.tv            IN CNAME .
+lacuevanavia.com            IN CNAME .
+1cuevana.cc            IN CNAME .
+cuevana3z.mobi            IN CNAME .
+icuevana3.video            IN CNAME .
+cuevana-3.money            IN CNAME .
+cuevana-3.vc            IN CNAME .
+cuevana.berlin            IN CNAME .
+cuevana.miami            IN CNAME .
+cuevana-es.es            IN CNAME .
+lacuevanatv.com            IN CNAME .
+fmoviesto.info            IN CNAME .
+fmovies2.us            IN CNAME .
+filmesonlinehd.ink            IN CNAME .
+sflixhd.to            IN CNAME .
+hdmovie2.at            IN CNAME .
+moviesnation.day            IN CNAME .
+moviesnation.ceo            IN CNAME .
+overflix.house            IN CNAME .
+minhacontatyflex.online            IN CNAME .
+player.blueplay.vip            IN CNAME .
+central.blueplay.fun            IN CNAME .
+blueplay.biz            IN CNAME .
+blueplayiptv.online            IN CNAME .
+23dns.live            IN CNAME .
+bluerecargas.com            IN CNAME .
+codigoblue.net            IN CNAME .
+loja.bluetv.live            IN CNAME .
+myfamilycinema.tv            IN CNAME .
+membersiteorange.com            IN CNAME .
+myfamilycard.com.br            IN CNAME .
+noveflix.cc            IN CNAME .
+recargasredoficial.com            IN CNAME .
+codigotvexpress2020.com.br            IN CNAME .
+familytvexpress.com            IN CNAME .
+mytvexpress.com            IN CNAME .
+oficialtvexpress.com            IN CNAME .
+recargatvexpress.com.br            IN CNAME .
+suportetvexpress.pro            IN CNAME .
+tvexpressnordeste.com.br            IN CNAME .
+recargaexpress.app            IN CNAME .
+recargatvoficial.com            IN CNAME .
+tvexpressoficialml.com            IN CNAME .
+tvexpressvno.com            IN CNAME .
+vnoplay.com            IN CNAME .
+tvexpressweb.com            IN CNAME .
+tvexpress.pro            IN CNAME .
+recarregue.pro            IN CNAME .
+funny-youtube.com            IN CNAME .
+funny-youtube2.com            IN CNAME .
+vizerhd.run            IN CNAME .
+bluetv.ai            IN CNAME .
+ativabluetv.net            IN CNAME .
+bluetv-oficial.com            IN CNAME .
+bluetvdobrazil.com            IN CNAME .
+lojabluetv.com            IN CNAME .
+recargabluetv.us            IN CNAME .
+zcodigobluetv.net            IN CNAME .
+aplicativosdetvbox.com.br            IN CNAME .
+lojaredplay.live            IN CNAME .
+oficialredplay.com            IN CNAME .
+redplaycinema.com            IN CNAME .
+redplayexpress.com            IN CNAME .
+redplaytopoficial.com            IN CNAME .
+violetaloja.com            IN CNAME .
+recargasexpresspro.com            IN CNAME .
+tverecargasexpress.online            IN CNAME .
