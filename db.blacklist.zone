@@ -1,6 +1,6 @@
 $TTL 1H
 @       IN      SOA LOCALHOST. localhost.localhost. (
-                2024051002     ; Serial
+                2024051003     ; Serial
                 1h              ; Refresh
                 15m             ; Retry
                 30d             ; Expire
@@ -5294,3 +5294,4 @@ redplaytopoficial.com            IN CNAME .
 violetaloja.com            IN CNAME .
 recargasexpresspro.com            IN CNAME .
 tverecargasexpress.online            IN CNAME .
+xn--compre-gr4e5a9cxf8bvjya0y6a4h3g.online            IN CNAME .
