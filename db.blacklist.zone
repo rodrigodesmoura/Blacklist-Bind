@@ -1,6 +1,6 @@
 $TTL 1H
 @       IN      SOA LOCALHOST. localhost.localhost. (
-                2024051001     ; Serial
+                2024051002     ; Serial
                 1h              ; Refresh
                 15m             ; Retry
                 30d             ; Expire
@@ -5266,6 +5266,30 @@ lojaredplay.live            IN CNAME .
 oficialredplay.com            IN CNAME .
 redplaycinema.com            IN CNAME .
 redplayexpress.com            IN CNAME .
+cinevision.love            IN CNAME .
+cine-vision2.com            IN CNAME .
+netcineproxy.pm            IN CNAME .
+netfilmes.vip            IN CNAME .
+netcine.pm            IN CNAME .
+netcine.wf            IN CNAME .
+seriesflix.watch            IN CNAME .
+1seriesflix.cc            IN CNAME .
+playseriesonline.co            IN CNAME .
+superflix.cam            IN CNAME .
+superflix.dad            IN CNAME .
+superflixx.online            IN CNAME .
+superflix.cam            IN CNAME .
+superflix.bid            IN CNAME .
+megaflix.store            IN CNAME .
+megaflix.pics            IN CNAME .
+multicanais.digital            IN CNAME .
+multicanais.link            IN CNAME .
+multicanais.lt            IN CNAME .
+multicanais.sx            IN CNAME .
+multicanais.team            IN CNAME .
+multicanais.si            IN CNAME .
+multicanais.pm            IN CNAME .
+multicanaisbr.pro            IN CNAME .
 redplaytopoficial.com            IN CNAME .
 violetaloja.com            IN CNAME .
 recargasexpresspro.com            IN CNAME .
