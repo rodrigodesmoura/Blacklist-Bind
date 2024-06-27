@@ -1,6 +1,6 @@
 $TTL 1H
 @       IN      SOA LOCALHOST. localhost.localhost. (
-                2024060401     ; Serial
+                2024062701     ; Serial
                 1h              ; Refresh
                 15m             ; Retry
                 30d             ; Expire
@@ -5912,3 +5912,59 @@ futemax.fi             IN CNAME .
 futemax2.site             IN CNAME .
 futemax.p             IN CNAME .
 megafilmeshd50.org             IN CNAME .
+cinevision2.vision            IN CNAME .
+hdfilmestorrent.com.br            IN CNAME .
+megafilmes.plus            IN CNAME .
+multicanais.tw            IN CNAME .
+multicanaishd.bond            IN CNAME .
+netcine.yt            IN CNAME .
+seriesflixbr.to            IN CNAME .
+seriesflix.zip            IN CNAME .
+meuanimes.com            IN CNAME .
+wmovies.top            IN CNAME .
+xilften.cc            IN CNAME .
+multicanais.ga            IN CNAME .
+multicanais.gs            IN CNAME .
+multi-canais.com            IN CNAME .
+seriesflixbr.to            IN CNAME .
+seriesflix.zip            IN CNAME .
+oneflix.cfd            IN CNAME .
+123movieshd.cyou            IN CNAME .
+cuevana2.com.ph            IN CNAME .
+cuevana33.online            IN CNAME .
+cuevana3i.live            IN CNAME .
+cuevana3io.pro            IN CNAME .
+cuevana3s.org            IN CNAME .
+cuevanalatino.net            IN CNAME .
+filmeson.icu            IN CNAME .
+bflixhd.to            IN CNAME .
+flixhq.quest            IN CNAME .
+pobreflixhd.red            IN CNAME .
+overflix.sbs            IN CNAME .
+overflix.uno            IN CNAME .
+overflix.work            IN CNAME .
+pelisplushd.art            IN CNAME .
+tvexpressbrasil.pro.br            IN CNAME .
+ultraflix.lat            IN CNAME .
+vizerhd.org            IN CNAME .
+ocineflix.com            IN CNAME .
+comandofilmesfree.tech            IN CNAME .
+futebolplayhd.run            IN CNAME .
+futeplayhd.xyz            IN CNAME .
+loveflix.click            IN CNAME .
+pobre.live            IN CNAME .
+pobreflix.ca            IN CNAME .
+pobreflix1.site            IN CNAME .
+pobreflix2.art            IN CNAME .
+topflix.digital            IN CNAME .
+topflix.money            IN CNAME .
+futebolaovivo.app            IN CNAME .
+futebolplayhd.la            IN CNAME .
+futebolplayhd.com.br            IN CNAME .
+futemax.pe            IN CNAME .
+futemax.pet            IN CNAME .
+futemax.pl            IN CNAME .
+futemax.pm            IN CNAME .
+futemax.fan            IN CNAME .
+futemax.host            IN CNAME .
+supertvaovivo.top            IN CNAME .
