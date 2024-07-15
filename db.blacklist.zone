@@ -1,6 +1,6 @@
 $TTL 1H
 @       IN      SOA LOCALHOST. localhost.localhost. (
-                2024070801     ; Serial
+                2024071501     ; Serial
                 1h              ; Refresh
                 15m             ; Retry
                 30d             ; Expire
@@ -6086,3 +6086,26 @@ multicanais.gs            IN CNAME .
 meteflix.com.br            IN CNAME .
 serieson.life            IN CNAME .
 seriesonlineplay.net            IN CNAME .
+supertvaovivo.vip            IN CNAME .
+futebolaovivo.cc            IN CNAME .
+goldclubtv.com            IN CNAME .
+comandotorrentshd50.net            IN CNAME .
+futemax.fo            IN CNAME .
+futemax.meme            IN CNAME .
+futemax.ps            IN CNAME .
+futemax.mov            IN CNAME .
+futemax.tw            IN CNAME .
+futmaxtv.com.br            IN CNAME .
+futebolaovivo.fan            IN CNAME .
+futebolaovivo.link            IN CNAME .
+gofilmes.film            IN CNAME .
+pobreflix.dad            IN CNAME .
+pobreflix.vision            IN CNAME .
+pobretv.email            IN CNAME .
+pobretv.markets            IN CNAME .
+seriesgratis.ink            IN CNAME .
+topflix.center            IN CNAME .
+topflix.lgbt            IN CNAME .
+unitvpro.pro            IN CNAME .
+unitvprovip.com.br            IN CNAME .
+unitvnet.com            IN CNAME .
