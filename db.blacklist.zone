@@ -1,6 +1,6 @@
 $TTL 1H
 @       IN      SOA LOCALHOST. localhost.localhost. (
-                2024071501     ; Serial
+                2024071601     ; Serial
                 1h              ; Refresh
                 15m             ; Retry
                 30d             ; Expire
@@ -6109,3 +6109,13 @@ topflix.lgbt            IN CNAME .
 unitvpro.pro            IN CNAME .
 unitvprovip.com.br            IN CNAME .
 unitvnet.com            IN CNAME .
+filmestorrents4k.com.br            IN CNAME .
+filmeviatorrents.info            IN CNAME .
+megafilmeshd1.live            IN CNAME .
+megafilmeshd5.site            IN CNAME .
+megafilmestorrentshd.site            IN CNAME .
+seriesflix.gold            IN CNAME .
+seriesflix.sh            IN CNAME .
+superflix.movie            IN CNAME .
+multicanais.life            IN CNAME .
+multicanais.ms            IN CNAME .
