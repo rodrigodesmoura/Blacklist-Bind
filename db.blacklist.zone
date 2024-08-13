@@ -1,6 +1,6 @@
 $TTL 1H
 @       IN      SOA LOCALHOST. localhost.localhost. (
-                2024071601     ; Serial
+                2024081301     ; Serial
                 1h              ; Refresh
                 15m             ; Retry
                 30d             ; Expire
@@ -6119,3 +6119,21 @@ seriesflix.sh            IN CNAME .
 superflix.movie            IN CNAME .
 multicanais.life            IN CNAME .
 multicanais.ms            IN CNAME .
+seriesflix.ws            IN CNAME.
+seriesflixbr.net            IN CNAME.
+seriesfx.me            IN CNAME.
+superflixplay.xyz            IN CNAME.
+superflixx.org            IN CNAME.
+cinevision-2.net            IN CNAME.
+filmestorrent2025.xyz            IN CNAME.
+torrentflix.com.br            IN CNAME.
+megafilmes.io            IN CNAME.
+megafilmes.movie            IN CNAME.
+megaflixtv.com.br            IN CNAME.
+multicanais.bio            IN CNAME.
+seriesflix.bar            IN CNAME.
+seriesflix.cx            IN CNAME.
+seriesflv1.online            IN CNAME.
+superflixbr.info            IN CNAME.
+multicanais.bio            IN CNAME.
+multicanais.shop            IN CNAME.
