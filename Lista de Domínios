@@ -1,13 +1,3 @@
-$TTL 1H
-@       IN      SOA LOCALHOST. localhost.localhost. (
-                2024090601     ; Serial
-                1h              ; Refresh
-                15m             ; Retry
-                30d             ; Expire
-                2h              ; Negative Cache TTL
-        )
-        NS  localhost.
-
 0123movie.net            IN CNAME .
 0123movie.rest            IN CNAME .
 0123movie.ru            IN CNAME .
