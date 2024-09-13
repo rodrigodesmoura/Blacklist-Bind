@@ -1,6 +1,6 @@
 $TTL 1H
 @       IN      SOA LOCALHOST. localhost.localhost. (
-                2024091201     ; Serial
+                2024091301     ; Serial
                 1h              ; Refresh
                 15m             ; Retry
                 30d             ; Expire
@@ -7017,3 +7017,5 @@ zfilmesonline.net            IN CNAME .
 zonafilmesbluray.com            IN CNAME .
 zonafilmestorrent.com            IN CNAME .
 zseriesmegadrive.xyz            IN CNAME .
+br-loop.com            IN CNAME .
+loop-br.com            IN CNAME .
