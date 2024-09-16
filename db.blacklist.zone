@@ -1,6 +1,6 @@
 $TTL 1H
 @       IN      SOA LOCALHOST. localhost.localhost. (
-                2024091301     ; Serial
+                2024091601     ; Serial
                 1h              ; Refresh
                 15m             ; Retry
                 30d             ; Expire
@@ -7019,3 +7019,13 @@ zonafilmestorrent.com            IN CNAME .
 zseriesmegadrive.xyz            IN CNAME .
 br-loop.com            IN CNAME .
 loop-br.com            IN CNAME .
+filmestorrent30.org            IN CNAME .
+multicanais.ch            IN CNAME .
+multicanais.gold            IN CNAME .
+multicanais.mba            IN CNAME .
+multicanais.mom            IN CNAME .
+multicanais.pet            IN CNAME .
+megafilmesplus.net            IN CNAME .
+serieflix.plus            IN CNAME .
+serieflix2.me            IN CNAME .
+superflix.bet            IN CNAME .
