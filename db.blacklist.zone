@@ -1,6 +1,6 @@
 $TTL 1H
 @       IN      SOA LOCALHOST. localhost.localhost. (
-                2024091601     ; Serial
+                2024091901     ; Serial
                 1h              ; Refresh
                 15m             ; Retry
                 30d             ; Expire
@@ -7029,3 +7029,7 @@ megafilmesplus.net            IN CNAME .
 serieflix.plus            IN CNAME .
 serieflix2.me            IN CNAME .
 superflix.bet            IN CNAME .
+x10.mx            IN CNAME .
+redecanais.li            IN CNAME .
+redecanaistv.me            IN CNAME .
+reidoscanais.me            IN CNAME .
