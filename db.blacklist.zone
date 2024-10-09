@@ -1,6 +1,6 @@
 $TTL 1H
 @       IN      SOA LOCALHOST. localhost.localhost. (
-                2024100501     ; Serial
+                2024100801     ; Serial
                 1h              ; Refresh
                 15m             ; Retry
                 30d             ; Expire
@@ -8,7 +8,7 @@ $TTL 1H
         )
         NS  localhost.
     
-;Atualizado em: 05-10-2024 21:20:40
+;Atualizado em: 08-10-2024 21:41:07
 0123movie.biz            IN CNAME .
 0123movie.club            IN CNAME .
 0123movie.cx            IN CNAME .
@@ -366,7 +366,6 @@ adorofilme.net.br            IN CNAME .
 adorofunny.com            IN CNAME .
 adoroseriesmp4.com            IN CNAME .
 adoroseriesmp4.xyz            IN CNAME .
-ads-twitter.com            IN CNAME .
 agoraflix.com            IN CNAME .
 aha.ac            IN CNAME .
 alba.cymru            IN CNAME .
@@ -6233,7 +6232,6 @@ suportetvexpress.pro            IN CNAME .
 svfrom.net            IN CNAME .
 svfromnet.to            IN CNAME .
 syscdn.xyz            IN CNAME .
-t.co            IN CNAME .
 tabonito-brasil.com            IN CNAME .
 tabonito-brasil.info            IN CNAME .
 tabonitobrasil.bar            IN CNAME .
@@ -6940,9 +6938,6 @@ tvvianet.online            IN CNAME .
 tvvianet.ru            IN CNAME .
 tvvianet.vip            IN CNAME .
 tvvianet.xyz            IN CNAME .
-twimg.com            IN CNAME .
-twitter.com            IN CNAME .
-twitter.org            IN CNAME .
 twoflix2.com            IN CNAME .
 txup.live            IN CNAME .
 tyflex-2024.app            IN CNAME .
@@ -7275,7 +7270,6 @@ www1.pelisplus.uno            IN CNAME .
 www2.pelisplus.ws            IN CNAME .
 www5.himovies.to            IN CNAME .
 wwwfilmesonlinehd.live            IN CNAME .
-x.com            IN CNAME .
 x10.mx            IN CNAME .
 x2.rs            IN CNAME .
 x2br.co            IN CNAME .
