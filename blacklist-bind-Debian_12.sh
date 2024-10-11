@@ -33,7 +33,7 @@ sed -i '$i response-policy {\n    zone "blacklist.zone" policy CNAME anatel.net.
 echo "A zona de blacklist foi criada."
 
 # Adicionando a linha ao arquivo /etc/crontab
-sed -i '$i 30 0    * * *   root    /home/att-blacklist' /etc/crontab
+sed -i '$i 0 8,10,12,14,16,18,20,22    * * *   root    /home/att-blacklist' /etc/crontab
 
 # Reiniciando o cron
 service cron restart
