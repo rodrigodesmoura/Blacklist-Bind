@@ -1,4 +1,3 @@
-$TTL 1H
 @       IN      SOA LOCALHOST. localhost.localhost. (
                 2024101101     ; Serial
                 1h              ; Refresh
@@ -7,7 +6,7 @@ $TTL 1H
                 2h              ; Negative Cache TTL
         )
         NS  localhost.
-    
+
 ;Atualizado em: 11-10-2024 01:00:00
 0123movie.biz            IN CNAME .
 0123movie.club            IN CNAME .
@@ -333,7 +332,7 @@ $TTL 1H
 4kfilmeshd.net            IN CNAME .
 4kfilmestorrent.com            IN CNAME .
 4kfilmestorrenthd.com            IN CNAME .
-4kmoviesnation.xyz"            IN CNAME .
+4kmoviesnation.xyz            IN CNAME .
 001game9.com            IN CNAME .
 0066bet.com            IN CNAME .
 013bet8.com            IN CNAME .
@@ -906,7 +905,7 @@ betifyme.com            IN CNAME .
 betinagold.com            IN CNAME .
 betinbet.net            IN CNAME .
 betkwiff.com            IN CNAME .
-betl 8k.app            IN CNAME .
+betl8k.app            IN CNAME .
 betlua.com            IN CNAME .
 betmais.com            IN CNAME .
 betmais.vip            IN CNAME .
@@ -1687,7 +1686,7 @@ megabets.bet            IN CNAME .
 megaganho.site            IN CNAME .
 megapari.com            IN CNAME .
 megapix.bet            IN CNAME .
-mej orcasinos.mx            IN CNAME .
+mejorcasinos.mx            IN CNAME .
 mejorcasino.mx            IN CNAME .
 melbet.com            IN CNAME .
 melhorbet.io            IN CNAME .
@@ -2274,9 +2273,9 @@ winline.by            IN CNAME .
 winmasters.com            IN CNAME .
 winniepg.com            IN CNAME .
 winz.io            IN CNAME .
-wolfcassino.com"            IN CNAME .
+wolfcassino.com            IN CNAME .
 wolfordpg.com            IN CNAME .
-wow-win.info/fortune/?bemobdata=c            IN CNAME .
+wow-win.info            IN CNAME .
 wplay.co            IN CNAME .
 wsw777.com            IN CNAME .
 wukongpg.cc            IN CNAME .
