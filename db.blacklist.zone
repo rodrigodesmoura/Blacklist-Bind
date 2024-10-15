@@ -1,6 +1,6 @@
 $TTL 1H
 @       IN      SOA LOCALHOST. localhost.localhost. (
-                2024101401     ; Serial
+                2024101501     ; Serial
                 1h              ; Refresh
                 15m             ; Retry
                 30d             ; Expire
@@ -8,7 +8,7 @@ $TTL 1H
         )
         NS  localhost.
     
-;Atualizado em: 14-10-2024 14:00:03
+;Atualizado em: 15-10-2024 10:00:03
 001game9.com            IN CNAME .
 0066bet.com            IN CNAME .
 0123movie.biz            IN CNAME .
@@ -3065,6 +3065,7 @@ dailynews0.io            IN CNAME .
 dailynews1.io            IN CNAME .
 dama777.com            IN CNAME .
 dan.com            IN CNAME .
+danielgarcialeiloes.net            IN CNAME .
 darthflix.com            IN CNAME .
 day14.life            IN CNAME .
 day16.life            IN CNAME .
