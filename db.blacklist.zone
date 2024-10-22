@@ -1,6 +1,6 @@
 $TTL 1H
 @       IN      SOA LOCALHOST. localhost.localhost. (
-                2024101701     ; Serial
+                2024102201     ; Serial
                 1h              ; Refresh
                 15m             ; Retry
                 30d             ; Expire
@@ -8,7 +8,7 @@ $TTL 1H
         )
         NS  localhost.
     
-;Atualizado em: 17-10-2024 10:00:02
+;Atualizado em: 22-10-2024 12:00:04
 001game9.com            IN CNAME .
 0066bet.com            IN CNAME .
 0123movie.biz            IN CNAME .
@@ -1832,7 +1832,6 @@ castopg6.com            IN CNAME .
 castopg7.com            IN CNAME .
 cazimbo.com.br            IN CNAME .
 cbc777.com            IN CNAME .
-cbesportes.com            IN CNAME .
 cbf365.com            IN CNAME .
 cbf365.vip            IN CNAME .
 cbfbets.com            IN CNAME .
@@ -2049,7 +2048,6 @@ club77.com            IN CNAME .
 club7711.com            IN CNAME .
 clubebet.com.br            IN CNAME .
 clubedabola.vip            IN CNAME .
-clubedaposta.com            IN CNAME .
 clubedovapor.com            IN CNAME .
 clubeesportivo.bet            IN CNAME .
 clubetvhd.com            IN CNAME .
@@ -3155,7 +3153,6 @@ dnstv.me            IN CNAME .
 dnsw2.com            IN CNAME .
 dnsw5.com            IN CNAME .
 docura777.cc            IN CNAME .
-donosdabola.io            IN CNAME .
 donosdabolabahia.net            IN CNAME .
 donosdabolabrasil.net            IN CNAME .
 donutspg.com            IN CNAME .
@@ -3281,7 +3278,6 @@ esportes.scobets.com            IN CNAME .
 esportesbet.net            IN CNAME .
 esportesbets.net            IN CNAME .
 esportespix.bet            IN CNAME .
-esportivavip.com            IN CNAME .
 esportivobets.com            IN CNAME .
 esrv.cc            IN CNAME .
 estorilsolcasinos.pt            IN CNAME .
@@ -5237,7 +5233,6 @@ megapeliculasrip.com            IN CNAME .
 megapeliculasrip.lol            IN CNAME .
 megapeliculasrip.net            IN CNAME .
 megapeliculasrip.org            IN CNAME .
-megapix.bet            IN CNAME .
 megaproxy123.com            IN CNAME .
 megaseriados.com            IN CNAME .
 megaseriados.live            IN CNAME .
@@ -7051,6 +7046,7 @@ redecanais.africa            IN CNAME .
 redecanais.app            IN CNAME .
 redecanais.bet            IN CNAME .
 redecanais.biz            IN CNAME .
+redecanais.bond            IN CNAME .
 redecanais.bz            IN CNAME .
 redecanais.cc            IN CNAME .
 redecanais.cfd            IN CNAME .
@@ -7059,6 +7055,7 @@ redecanais.co            IN CNAME .
 redecanais.co.in            IN CNAME .
 redecanais.com            IN CNAME .
 redecanais.cx            IN CNAME .
+redecanais.cyou            IN CNAME .
 redecanais.cz            IN CNAME .
 redecanais.dad            IN CNAME .
 redecanais.day            IN CNAME .
@@ -7111,15 +7108,18 @@ redecanaisapk.xyz            IN CNAME .
 redecanaishd.app            IN CNAME .
 redecanaishd.art            IN CNAME .
 redecanaishd.cc            IN CNAME .
+redecanaishd.click            IN CNAME .
 redecanaishd.co            IN CNAME .
 redecanaishd.info            IN CNAME .
 redecanaishd.lol            IN CNAME .
 redecanaishd.me            IN CNAME .
 redecanaishd.net            IN CNAME .
 redecanaishd.org            IN CNAME .
+redecanaishd.pics            IN CNAME .
 redecanaishd.pro            IN CNAME .
 redecanaishd.shop            IN CNAME .
 redecanaishd.top            IN CNAME .
+redecanaisplus.online            IN CNAME .
 redecanaistv.africa            IN CNAME .
 redecanaistv.bet            IN CNAME .
 redecanaistv.co            IN CNAME .
@@ -7669,6 +7669,7 @@ seufilme.pics            IN CNAME .
 seufilmedublado.com            IN CNAME .
 seufilmestorrent.net            IN CNAME .
 seufilmetorrent.com            IN CNAME .
+seurateio.com            IN CNAME .
 seuseriado.app            IN CNAME .
 seuseriado.biz            IN CNAME .
 seuseriado.cam            IN CNAME .
