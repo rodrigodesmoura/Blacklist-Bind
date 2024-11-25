@@ -1,6 +1,6 @@
 $TTL 1H
 @       IN      SOA LOCALHOST. localhost.localhost. (
-                2024112001     ; Serial
+                2024112501     ; Serial
                 1h              ; Refresh
                 15m             ; Retry
                 30d             ; Expire
@@ -8,7 +8,7 @@ $TTL 1H
         )
         NS  localhost.
     
-;Atualizado em: 20-11-2024 16:00:02
+;Atualizado em: 25-11-2024 08:00:02
 001game1.com            IN CNAME .
 001game2.com            IN CNAME .
 001game3.com            IN CNAME .
@@ -2796,6 +2796,7 @@ aplicativos.top            IN CNAME .
 aplicativosdetvbox.com            IN CNAME .
 aplicativosdetvbox.com.br            IN CNAME .
 apok.pro            IN CNAME .
+apollo-br.vip            IN CNAME .
 apolojogo.com            IN CNAME .
 apop.one            IN CNAME .
 apostabet.net            IN CNAME .
@@ -5509,7 +5510,6 @@ dxd777.com            IN CNAME .
 dyd777.com            IN CNAME .
 dzd777.com            IN CNAME .
 dzpfree.shop            IN CNAME .
-e.4play.bet            IN CNAME .
 e123moviefree.com            IN CNAME .
 e123movies4u.com            IN CNAME .
 e3play.in            IN CNAME .
@@ -7418,13 +7418,11 @@ m.sabor777.com            IN CNAME .
 m.samba777lg.com            IN CNAME .
 m.sportaza1.com            IN CNAME .
 m.sptiz777bet.com            IN CNAME .
-m.startbet.io            IN CNAME .
 m.superman777bet.com            IN CNAME .
 m.surtadas777.com            IN CNAME .
 m.sushi777lg.com            IN CNAME .
 m.touro777bet.com            IN CNAME .
 m.turmaina777bet.com            IN CNAME .
-m.upbet.com            IN CNAME .
 m.vintage777.com            IN CNAME .
 m.xiexie777slots.com            IN CNAME .
 m0vies123.com            IN CNAME .
