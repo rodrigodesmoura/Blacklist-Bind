@@ -1,6 +1,6 @@
 $TTL 1H
 @       IN      SOA LOCALHOST. localhost.localhost. (
-                2024120901     ; Serial
+                2024121301     ; Serial
                 1h              ; Refresh
                 15m             ; Retry
                 30d             ; Expire
@@ -8,7 +8,7 @@ $TTL 1H
         )
         NS  localhost.
     
-;Atualizado em: 09-12-2024 15:02:51
+;Atualizado em: 13-12-2024 22:18:55
 001game1.com            IN CNAME .
 001game2.com            IN CNAME .
 001game3.com            IN CNAME .
@@ -6321,6 +6321,7 @@ fmpx.vip            IN CNAME .
 fofiunetigeron-line.com            IN CNAME .
 fofs.site            IN CNAME .
 fogueirapg.com            IN CNAME .
+folhanews5.com            IN CNAME .
 folkbet.co            IN CNAME .
 folkbet.com            IN CNAME .
 fonbet.com.cy            IN CNAME .
@@ -7112,6 +7113,7 @@ horabet.vip            IN CNAME .
 hostbr.xyz            IN CNAME .
 hostinggonemoreso1.com            IN CNAME .
 hot777.com            IN CNAME .
+hotmartrateio.com            IN CNAME .
 housetvprodigital.online            IN CNAME .
 hptv.pro            IN CNAME .
 hrz.life            IN CNAME .
@@ -9983,6 +9985,7 @@ podeplay.org            IN CNAME .
 podersports.bet.br            IN CNAME .
 poledesign.ru            IN CNAME .
 polkafood.pl            IN CNAME .
+pontodosrateios.com            IN CNAME .
 pony777.com            IN CNAME .
 pop00.com            IN CNAME .
 porpg.com            IN CNAME .
@@ -11014,10 +11017,12 @@ sol259.casino            IN CNAME .
 soljogo.com            IN CNAME .
 soluzion.top            IN CNAME .
 somentedezpila.com            IN CNAME .
+sorateios.com            IN CNAME .
 sortebets.com            IN CNAME .
 sortebets.net            IN CNAME .
 sorteesporte.com            IN CNAME .
 sorteesportiva.net            IN CNAME .
+sorteios.com            IN CNAME .
 sortepix.bet            IN CNAME .
 sortesua.bet            IN CNAME .
 sortevip.com            IN CNAME .
