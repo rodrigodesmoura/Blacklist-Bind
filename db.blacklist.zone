@@ -1,6 +1,6 @@
 $TTL 1H
 @       IN      SOA LOCALHOST. localhost.localhost. (
-                2025011501     ; Serial
+                2025012801     ; Serial
                 1h              ; Refresh
                 15m             ; Retry
                 30d             ; Expire
@@ -8,7 +8,7 @@ $TTL 1H
         )
         NS  localhost.
     
-;Atualizado em: 15-01-2025 23:22:56
+;Atualizado em: 28-01-2025 09:36:49
 0007bet.com            IN CNAME .
 0012bet.com            IN CNAME .
 001game1.com            IN CNAME .
@@ -4985,6 +4985,7 @@ bbb.fm            IN CNAME .
 bbb1998.com            IN CNAME .
 bbb2024.online            IN CNAME .
 bbb24tv.blogspot.com            IN CNAME .
+bbbaovivo.gratis            IN CNAME .
 bbbbgame6.com            IN CNAME .
 bbbbhappy.vip            IN CNAME .
 bbbbmk.com            IN CNAME .
@@ -6568,6 +6569,7 @@ cinetorrents.com.br            IN CNAME .
 cinev6vision.live            IN CNAME .
 cinevise.in            IN CNAME .
 cinevise.net            IN CNAME .
+cinevise.org            IN CNAME .
 cinevision-2.com            IN CNAME .
 cinevision-2.life            IN CNAME .
 cinevision-2.net            IN CNAME .
@@ -6626,6 +6628,7 @@ cinevisionv6.com.br            IN CNAME .
 cinevisionv6.live            IN CNAME .
 cinevisionv6.me            IN CNAME .
 cinevisionv6.online            IN CNAME .
+cinevisionv6.org            IN CNAME .
 cinevisionv6.site            IN CNAME .
 cinpzo.shop            IN CNAME .
 cinzapg.com            IN CNAME .
@@ -6772,6 +6775,7 @@ comandofilmesplay.com            IN CNAME .
 comandofilmestorrent.net            IN CNAME .
 comandofilmestorrent.online            IN CNAME .
 comandofilmestorrent.org            IN CNAME .
+comandofilmestorrenthds.site            IN CNAME .
 comandofilmestorrents.com            IN CNAME .
 comandofilmestorrents.life            IN CNAME .
 comandofilmestorrents.org            IN CNAME .
@@ -9469,7 +9473,6 @@ gamehh6.com            IN CNAME .
 gamejjjj.com            IN CNAME .
 gameooo1.com            IN CNAME .
 ganarco.com            IN CNAME .
-ganhabet.com            IN CNAME .
 ganhador.vip            IN CNAME .
 ganhebr35.com            IN CNAME .
 ganhebr47.com            IN CNAME .
@@ -11490,6 +11493,7 @@ megaflix.vip            IN CNAME .
 megaflix.work            IN CNAME .
 megaflix1.com            IN CNAME .
 megaflix1.vip            IN CNAME .
+megaflix2.com            IN CNAME .
 megaflix2.net            IN CNAME .
 megaflix20.site            IN CNAME .
 megaflixapk.com            IN CNAME .
@@ -11656,6 +11660,7 @@ megatorrentx.com.br            IN CNAME .
 megatvaovivo.com            IN CNAME .
 megatvonline.app            IN CNAME .
 megatvonline.biz            IN CNAME .
+megatvonline.net            IN CNAME .
 megatvonline.top            IN CNAME .
 megaultra.top            IN CNAME .
 megavizer.com            IN CNAME .
@@ -12018,6 +12023,7 @@ multicanais.bar            IN CNAME .
 multicanais.bet            IN CNAME .
 multicanais.bid            IN CNAME .
 multicanais.bio            IN CNAME .
+multicanais.black            IN CNAME .
 multicanais.blog            IN CNAME .
 multicanais.bond            IN CNAME .
 multicanais.bz            IN CNAME .
@@ -12083,6 +12089,7 @@ multicanais.ink            IN CNAME .
 multicanais.ist            IN CNAME .
 multicanais.it            IN CNAME .
 multicanais.je            IN CNAME .
+multicanais.kiwi            IN CNAME .
 multicanais.krd            IN CNAME .
 multicanais.la            IN CNAME .
 multicanais.lat            IN CNAME .
@@ -12158,6 +12165,7 @@ multicanais.soy            IN CNAME .
 multicanais.spa            IN CNAME .
 multicanais.st            IN CNAME .
 multicanais.store            IN CNAME .
+multicanais.surf            IN CNAME .
 multicanais.sx            IN CNAME .
 multicanais.team            IN CNAME .
 multicanais.tel            IN CNAME .
@@ -12166,6 +12174,7 @@ multicanais.tires            IN CNAME .
 multicanais.tl            IN CNAME .
 multicanais.to            IN CNAME .
 multicanais.today            IN CNAME .
+multicanais.tokyo            IN CNAME .
 multicanais.top            IN CNAME .
 multicanais.tube            IN CNAME .
 multicanais.tudoaovivo.com.br            IN CNAME .
@@ -12195,6 +12204,7 @@ multicanais1.pro            IN CNAME .
 multicanais2.com            IN CNAME .
 multicanaisaovivo.com.br            IN CNAME .
 multicanaisbr.pro            IN CNAME .
+multicanaisbr.top            IN CNAME .
 multicanaisfans.com            IN CNAME .
 multicanaishd.bond            IN CNAME .
 multicanaishd.com            IN CNAME .
@@ -12400,6 +12410,7 @@ netcineproxy.com            IN CNAME .
 netcineproxy.info            IN CNAME .
 netcineproxy.pm            IN CNAME .
 netcineproxy.xyz            IN CNAME .
+netcinetv.la            IN CNAME .
 netcinetv.live            IN CNAME .
 netcinetv.lol            IN CNAME .
 netcinetv.net            IN CNAME .
@@ -13406,6 +13417,7 @@ playhdfilmes.com.br            IN CNAME .
 playing.io            IN CNAME .
 playlast.top            IN CNAME .
 playmonster.xyz            IN CNAME .
+playmow.org            IN CNAME .
 playmp4.net            IN CNAME .
 playon.247247.icu            IN CNAME .
 playon.click            IN CNAME .
@@ -13420,6 +13432,7 @@ playrecargastve.com            IN CNAME .
 playsakura.com            IN CNAME .
 playseriados.com            IN CNAME .
 playseriesonline.co            IN CNAME .
+playseriesonline.life            IN CNAME .
 playseriesonline.live            IN CNAME .
 playseriesonline.one            IN CNAME .
 playseriesonline.online            IN CNAME .
@@ -14183,8 +14196,10 @@ redecanais.cfd            IN CNAME .
 redecanais.ch            IN CNAME .
 redecanais.club            IN CNAME .
 redecanais.co            IN CNAME .
+redecanais.co.im            IN CNAME .
 redecanais.co.in            IN CNAME .
 redecanais.com            IN CNAME .
+redecanais.com.im            IN CNAME .
 redecanais.cx            IN CNAME .
 redecanais.cyou            IN CNAME .
 redecanais.cz            IN CNAME .
@@ -14201,6 +14216,7 @@ redecanais.gratis            IN CNAME .
 redecanais.guru            IN CNAME .
 redecanais.homes            IN CNAME .
 redecanais.icu            IN CNAME .
+redecanais.im            IN CNAME .
 redecanais.in            IN CNAME .
 redecanais.ink            IN CNAME .
 redecanais.la            IN CNAME .
@@ -14213,11 +14229,13 @@ redecanais.me            IN CNAME .
 redecanais.mobi            IN CNAME .
 redecanais.mom            IN CNAME .
 redecanais.mov            IN CNAME .
+redecanais.ms            IN CNAME .
 redecanais.net            IN CNAME .
 redecanais.nu            IN CNAME .
 redecanais.onl            IN CNAME .
 redecanais.org            IN CNAME .
 redecanais.pm            IN CNAME .
+redecanais.ps            IN CNAME .
 redecanais.re            IN CNAME .
 redecanais.rest            IN CNAME .
 redecanais.site            IN CNAME .
@@ -14239,6 +14257,7 @@ redecanais.xn--p5tu34j.xn--j6w193g            IN CNAME .
 redecanais.zip            IN CNAME .
 redecanais20.com            IN CNAME .
 redecanais20.net            IN CNAME .
+redecanais4k.me            IN CNAME .
 redecanais4k.xyz            IN CNAME .
 redecanais9.com            IN CNAME .
 redecanaisapk.xyz            IN CNAME .
@@ -14253,6 +14272,7 @@ redecanaishd.cc            IN CNAME .
 redecanaishd.click            IN CNAME .
 redecanaishd.co            IN CNAME .
 redecanaishd.com            IN CNAME .
+redecanaishd.im            IN CNAME .
 redecanaishd.info            IN CNAME .
 redecanaishd.lol            IN CNAME .
 redecanaishd.me            IN CNAME .
@@ -14265,10 +14285,13 @@ redecanaishd.shop            IN CNAME .
 redecanaishd.top            IN CNAME .
 redecanaishd.vc            IN CNAME .
 redecanaishd.vip            IN CNAME .
+redecanaisplay.me            IN CNAME .
 redecanaisplus.online            IN CNAME .
 redecanaistv.ac            IN CNAME .
 redecanaistv.africa            IN CNAME .
 redecanaistv.bet            IN CNAME .
+redecanaistv.ch            IN CNAME .
+redecanaistv.click            IN CNAME .
 redecanaistv.co            IN CNAME .
 redecanaistv.com            IN CNAME .
 redecanaistv.com.br            IN CNAME .
@@ -14277,6 +14300,7 @@ redecanaistv.dad            IN CNAME .
 redecanaistv.day            IN CNAME .
 redecanaistv.dev            IN CNAME .
 redecanaistv.ec            IN CNAME .
+redecanaistv.fi            IN CNAME .
 redecanaistv.foo            IN CNAME .
 redecanaistv.fun            IN CNAME .
 redecanaistv.futbol            IN CNAME .
@@ -14286,17 +14310,21 @@ redecanaistv.la            IN CNAME .
 redecanaistv.lol            IN CNAME .
 redecanaistv.me            IN CNAME .
 redecanaistv.mov            IN CNAME .
+redecanaistv.ms            IN CNAME .
 redecanaistv.net            IN CNAME .
 redecanaistv.online            IN CNAME .
 redecanaistv.org            IN CNAME .
+redecanaistv.ps            IN CNAME .
 redecanaistv.shop            IN CNAME .
 redecanaistv.site            IN CNAME .
 redecanaistv.to            IN CNAME .
 redecanaistv.top            IN CNAME .
 redecanaistv.tw            IN CNAME .
 redecanaistv.uno            IN CNAME .
+redecanaistv.vc            IN CNAME .
 redecanaistv.xyz            IN CNAME .
 redecanaistv.zip            IN CNAME .
+redecanaisvip.me            IN CNAME .
 redecompartilhar.shop            IN CNAME .
 redeplaytv.com            IN CNAME .
 redlink.tv            IN CNAME .
@@ -14656,6 +14684,7 @@ serialeonline.su            IN CNAME .
 serialeonline.uk            IN CNAME .
 serialeonlinesubtitrate.ro            IN CNAME .
 serieflix.biz            IN CNAME .
+serieflix.cam            IN CNAME .
 serieflix.cc            IN CNAME .
 serieflix.cv            IN CNAME .
 serieflix.info            IN CNAME .
@@ -14668,6 +14697,7 @@ serieflix.sbs            IN CNAME .
 serieflix.to            IN CNAME .
 serieflix.top            IN CNAME .
 serieflix.vip            IN CNAME .
+serieflix2.art            IN CNAME .
 serieflix2.com            IN CNAME .
 serieflix2.live            IN CNAME .
 serieflix2.me            IN CNAME .
@@ -14782,6 +14812,7 @@ seriesflixapp.online            IN CNAME .
 seriesflixapp.vip            IN CNAME .
 seriesflixbr.com            IN CNAME .
 seriesflixbr.live            IN CNAME .
+seriesflixbr.me            IN CNAME .
 seriesflixbr.net            IN CNAME .
 seriesflixbr.online            IN CNAME .
 seriesflixbr.to            IN CNAME .
@@ -14808,6 +14839,7 @@ seriesflixhd2.online            IN CNAME .
 seriesflixhdtv.vip            IN CNAME .
 seriesflixtv.biz            IN CNAME .
 seriesflixtv.blog            IN CNAME .
+seriesflixtv.cam            IN CNAME .
 seriesflixtv.ch            IN CNAME .
 seriesflixtv.com            IN CNAME .
 seriesflixtv.in            IN CNAME .
@@ -14995,6 +15027,7 @@ seuseriado.link            IN CNAME .
 seuseriado.live            IN CNAME .
 seuseriado.love            IN CNAME .
 seuseriado.me            IN CNAME .
+seuseriado.my            IN CNAME .
 seuseriado.net            IN CNAME .
 seuseriado.one            IN CNAME .
 seuseriado.org            IN CNAME .
@@ -15049,6 +15082,7 @@ singapore-cdn1.com            IN CNAME .
 singpg.com            IN CNAME .
 sinopg.com            IN CNAME .
 sinospg.com            IN CNAME .
+sisu-aluno.site            IN CNAME .
 siteblue.me            IN CNAME .
 siteflix.tv            IN CNAME .
 sitesdeapostasnobrasil.com            IN CNAME .
@@ -15315,6 +15349,7 @@ starnms.com            IN CNAME .
 staron.top            IN CNAME .
 starplaybr.online            IN CNAME .
 starplayplus.online            IN CNAME .
+starplaytvonline.com            IN CNAME .
 starry777.com            IN CNAME .
 starsapostas.net            IN CNAME .
 starsport.top            IN CNAME .
@@ -15347,6 +15382,7 @@ strzzi.site            IN CNAME .
 stussypg.com            IN CNAME .
 stwds.shop            IN CNAME .
 suabet.net            IN CNAME .
+suaseries.biz            IN CNAME .
 suaseries.com            IN CNAME .
 suaseries.org            IN CNAME .
 suaseriesonline.live            IN CNAME .
@@ -15498,6 +15534,7 @@ superflix.sh            IN CNAME .
 superflix.shop            IN CNAME .
 superflix.site            IN CNAME .
 superflix.sx            IN CNAME .
+superflix.tel            IN CNAME .
 superflix.to            IN CNAME .
 superflix.top            IN CNAME .
 superflix.tube            IN CNAME .
@@ -15572,6 +15609,7 @@ superflixplay.com            IN CNAME .
 superflixplay.xyz            IN CNAME .
 superflixplus.com            IN CNAME .
 superflixseries.online            IN CNAME .
+superflixtv.cam            IN CNAME .
 superflixtv.com            IN CNAME .
 superflixtv.live            IN CNAME .
 superflixtv.net            IN CNAME .
@@ -15586,6 +15624,7 @@ superflixx.org            IN CNAME .
 superflixx.site            IN CNAME .
 superflixx.vip            IN CNAME .
 superflixz.com            IN CNAME .
+superflixz.net            IN CNAME .
 superfutebol.com.br            IN CNAME .
 superfutebol.tv            IN CNAME .
 superfx.live            IN CNAME .
@@ -15631,6 +15670,7 @@ supertela.re            IN CNAME .
 supertela.se            IN CNAME .
 supertela.site            IN CNAME .
 supertela.skin            IN CNAME .
+supertela.store            IN CNAME .
 supertela.to            IN CNAME .
 supertela.top            IN CNAME .
 supertela.vg            IN CNAME .
@@ -15640,6 +15680,7 @@ supertela.xyz            IN CNAME .
 supertela.zip            IN CNAME .
 supertela1.com            IN CNAME .
 supertelabr.pro            IN CNAME .
+supertelahd.shop            IN CNAME .
 supertelaiptv.online            IN CNAME .
 supertv.digital            IN CNAME .
 supertv.io            IN CNAME .
@@ -15775,6 +15816,7 @@ techplaytv.click            IN CNAME .
 techzzi.site            IN CNAME .
 tecnotv.club            IN CNAME .
 tecplaytv.xyz            IN CNAME .
+telaflix.lat            IN CNAME .
 telaflix.live            IN CNAME .
 telaflix.lol            IN CNAME .
 telaflix.pro            IN CNAME .
@@ -17913,6 +17955,7 @@ xilften.rip            IN CNAME .
 xilften.run            IN CNAME .
 xilften.sbs            IN CNAME .
 xilften.tech            IN CNAME .
+xilften.tel            IN CNAME .
 xilften.to            IN CNAME .
 xilften.top            IN CNAME .
 xilften.tv            IN CNAME .
