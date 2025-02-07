@@ -1,6 +1,6 @@
 $TTL 1H
 @       IN      SOA LOCALHOST. localhost.localhost. (
-                2025020401     ; Serial
+                2025020701     ; Serial
                 1h              ; Refresh
                 15m             ; Retry
                 30d             ; Expire
@@ -8,7 +8,7 @@ $TTL 1H
         )
         NS  localhost.
     
-;Atualizado em: 04-02-2025 12:52:40
+;Atualizado em: 07-02-2025 09:50:37
 0007bet.com            IN CNAME .
 0012bet.com            IN CNAME .
 001game1.com            IN CNAME .
@@ -5981,7 +5981,6 @@ bflixzapp.com            IN CNAME .
 bfspg.com            IN CNAME .
 bfx9kwcn.live            IN CNAME .
 bg777.cc            IN CNAME .
-bggbet.com            IN CNAME .
 bggbeting.com            IN CNAME .
 bggwin.com            IN CNAME .
 bgmpg.com            IN CNAME .
@@ -10216,7 +10215,6 @@ goflix1.com            IN CNAME .
 gogocasino.com            IN CNAME .
 gohanpg.com            IN CNAME .
 goiasbets.top            IN CNAME .
-goinbet.com            IN CNAME .
 goinbet9527.com            IN CNAME .
 golbet.com            IN CNAME .
 golbet365.info            IN CNAME .
@@ -13491,7 +13489,6 @@ ondebaixofilmes.com            IN CNAME .
 ondebaixofilmes.me            IN CNAME .
 ondebaixotorrent.com            IN CNAME .
 onebook888.com            IN CNAME .
-onebra.com            IN CNAME .
 onecasino.com            IN CNAME .
 onedun.com            IN CNAME .
 oneflix.cfd            IN CNAME .
@@ -14090,7 +14087,6 @@ pgvip1100.com            IN CNAME .
 pgvir.com            IN CNAME .
 pgvspp.com            IN CNAME .
 pgwealth.bet            IN CNAME .
-pgwin.com            IN CNAME .
 pgwinmy.com            IN CNAME .
 pgwinpp.com            IN CNAME .
 phgpg.com            IN CNAME .
@@ -14883,7 +14879,6 @@ raizbet.com            IN CNAME .
 ranchopgwin.com            IN CNAME .
 ranchowin.com            IN CNAME .
 rankedbr.com            IN CNAME .
-rapwin.com            IN CNAME .
 rapwinlife.com            IN CNAME .
 rateiodigital.com            IN CNAME .
 ratopg.com            IN CNAME .
@@ -15075,6 +15070,7 @@ redecanais4k.xyz            IN CNAME .
 redecanais9.com            IN CNAME .
 redecanaisapk.xyz            IN CNAME .
 redecanaisbr.me            IN CNAME .
+redecanaisfilmes.top            IN CNAME .
 redecanaishd.app            IN CNAME .
 redecanaishd.art            IN CNAME .
 redecanaishd.asia            IN CNAME .
@@ -15139,6 +15135,7 @@ redecanaistv.vc            IN CNAME .
 redecanaistv.xyz            IN CNAME .
 redecanaistv.zip            IN CNAME .
 redecanaisvip.me            IN CNAME .
+redecanaiswatch.me            IN CNAME .
 redecompartilhar.shop            IN CNAME .
 redeplaytv.com            IN CNAME .
 redlink.tv            IN CNAME .
@@ -18759,7 +18756,6 @@ winfortuna.bet            IN CNAME .
 winhoje.com            IN CNAME .
 winline.by            IN CNAME .
 winmasters.com            IN CNAME .
-winmi.com            IN CNAME .
 winnatal.cc            IN CNAME .
 winniepg.com            IN CNAME .
 winokok.com            IN CNAME .
