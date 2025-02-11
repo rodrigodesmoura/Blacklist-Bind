@@ -1,6 +1,6 @@
 $TTL 1H
 @       IN      SOA LOCALHOST. localhost.localhost. (
-                2025020701     ; Serial
+                2025021101     ; Serial
                 1h              ; Refresh
                 15m             ; Retry
                 30d             ; Expire
@@ -8,7 +8,7 @@ $TTL 1H
         )
         NS  localhost.
     
-;Atualizado em: 07-02-2025 09:50:37
+;Atualizado em: 11-02-2025 09:22:47
 0007bet.com            IN CNAME .
 0012bet.com            IN CNAME .
 001game1.com            IN CNAME .
@@ -24,6 +24,7 @@ $TTL 1H
 001game9.com            IN CNAME .
 001win11.com            IN CNAME .
 0066bet.com            IN CNAME .
+0066bet1.com            IN CNAME .
 0066bet11.com            IN CNAME .
 0066bet2.com            IN CNAME .
 0066bet4.com            IN CNAME .
@@ -180,6 +181,7 @@ $TTL 1H
 0win345.com            IN CNAME .
 0win44.com            IN CNAME .
 0win444.com            IN CNAME .
+1-9tpg.com            IN CNAME .
 1-win.br.com            IN CNAME .
 10.games            IN CNAME .
 1001bets.net            IN CNAME .
@@ -268,6 +270,7 @@ $TTL 1H
 11bets.com            IN CNAME .
 11brganhar.com            IN CNAME .
 11fp5.com            IN CNAME .
+11gamey.com            IN CNAME .
 11pg.com            IN CNAME .
 11queridopg.com            IN CNAME .
 11rainhaspg.com            IN CNAME .
@@ -636,6 +639,7 @@ $TTL 1H
 12bet168.com            IN CNAME .
 12bet4.com            IN CNAME .
 12bet69.com            IN CNAME .
+12gamer.com            IN CNAME .
 12win8.com            IN CNAME .
 1313win.com.br            IN CNAME .
 1322bet.com            IN CNAME .
@@ -730,6 +734,7 @@ $TTL 1H
 15win13.com            IN CNAME .
 15win14.com            IN CNAME .
 15win15.com            IN CNAME .
+15win16.com            IN CNAME .
 15win2.com            IN CNAME .
 15win22.com            IN CNAME .
 15win3.com            IN CNAME .
@@ -750,6 +755,7 @@ $TTL 1H
 161bet3.com            IN CNAME .
 1659bet.com            IN CNAME .
 1659bet.vip            IN CNAME .
+1668games.com            IN CNAME .
 166bet.bet            IN CNAME .
 166bet.com            IN CNAME .
 166bet.net            IN CNAME .
@@ -799,6 +805,7 @@ $TTL 1H
 1777win.com            IN CNAME .
 177beth.com            IN CNAME .
 178betmy.net            IN CNAME .
+179games.com            IN CNAME .
 17bet2.com            IN CNAME .
 17bet3.com            IN CNAME .
 17bet4.com            IN CNAME .
@@ -807,6 +814,7 @@ $TTL 1H
 17media.one            IN CNAME .
 17win18.com            IN CNAME .
 17win568.com            IN CNAME .
+180odds.com            IN CNAME .
 1819bet.bet            IN CNAME .
 181bet.game            IN CNAME .
 181beta.com            IN CNAME .
@@ -852,6 +860,7 @@ $TTL 1H
 188beto.com            IN CNAME .
 188betz.com            IN CNAME .
 188jogo.vip            IN CNAME .
+188w.org            IN CNAME .
 189bet.vip            IN CNAME .
 18bet88.com            IN CNAME .
 18beta.com            IN CNAME .
@@ -1128,6 +1137,7 @@ $TTL 1H
 1vv.bet            IN CNAME .
 1wccbet.com            IN CNAME .
 1weoky.life            IN CNAME .
+1wfwna.life            IN CNAME .
 1win-22008.com            IN CNAME .
 1win-bet.com.br            IN CNAME .
 1win.com            IN CNAME .
@@ -1177,6 +1187,7 @@ $TTL 1H
 2024jogos.win            IN CNAME .
 2025-777.vip            IN CNAME .
 2025-mk.com            IN CNAME .
+2025-mk7.com            IN CNAME .
 2025-oxoxpg.com            IN CNAME .
 2025.1xcassino.com            IN CNAME .
 2025bets.com            IN CNAME .
@@ -1185,6 +1196,7 @@ $TTL 1H
 2025tiger.bet            IN CNAME .
 2025tiger.net            IN CNAME .
 2025vk.bet            IN CNAME .
+2027games.com            IN CNAME .
 202bet.com            IN CNAME .
 2059bet.vip            IN CNAME .
 207bet.com            IN CNAME .
@@ -1207,6 +1219,7 @@ $TTL 1H
 20bett.com            IN CNAME .
 20flix.net            IN CNAME .
 20game9.com            IN CNAME .
+20glob.com            IN CNAME .
 20jogo.bet            IN CNAME .
 20jogo.com            IN CNAME .
 20jogo1.com            IN CNAME .
@@ -1250,6 +1263,7 @@ $TTL 1H
 2288bet0.com            IN CNAME .
 2288bet1.com            IN CNAME .
 2288bet11.com            IN CNAME .
+2288bet12.com            IN CNAME .
 2288bet2.com            IN CNAME .
 2288bet22.com            IN CNAME .
 2288bet3.com            IN CNAME .
@@ -1356,7 +1370,9 @@ $TTL 1H
 23bet44.com            IN CNAME .
 23bet55.com            IN CNAME .
 23bet6.com            IN CNAME .
+23bet66.com            IN CNAME .
 23bet7.com            IN CNAME .
+23bet77.com            IN CNAME .
 23bet8.com            IN CNAME .
 23bet9.com            IN CNAME .
 23dns.live            IN CNAME .
@@ -1406,6 +1422,7 @@ $TTL 1H
 28bet1688.com            IN CNAME .
 28g04.com            IN CNAME .
 28g888.com            IN CNAME .
+290009.fg6.com            IN CNAME .
 291bet.game            IN CNAME .
 291bet.vip            IN CNAME .
 291bet1.com            IN CNAME .
@@ -1529,12 +1546,14 @@ $TTL 1H
 30jogo7.com            IN CNAME .
 30jogo8.com            IN CNAME .
 30jogo9.com            IN CNAME .
+30win17.com            IN CNAME .
 312bet.co            IN CNAME .
 312bet.me            IN CNAME .
 312bet.win            IN CNAME .
 312bet1.com            IN CNAME .
 312bet2.com            IN CNAME .
 312bet3.com            IN CNAME .
+312bet6.com            IN CNAME .
 312bet8.com            IN CNAME .
 312bet9.com            IN CNAME .
 313bet.co            IN CNAME .
@@ -1569,6 +1588,7 @@ $TTL 1H
 3225928.net            IN CNAME .
 3233win.com            IN CNAME .
 324bet.com            IN CNAME .
+325games.com            IN CNAME .
 32jogo.com            IN CNAME .
 32red.com            IN CNAME .
 32win.net            IN CNAME .
@@ -1585,6 +1605,7 @@ $TTL 1H
 333bet1.com            IN CNAME .
 333bet1.vip            IN CNAME .
 333bet10.com            IN CNAME .
+333bet11.com            IN CNAME .
 333bet17.com            IN CNAME .
 333bet2.com            IN CNAME .
 333bet3.com            IN CNAME .
@@ -1669,6 +1690,7 @@ $TTL 1H
 348bett.com            IN CNAME .
 34jogo.com            IN CNAME .
 34win79.com            IN CNAME .
+352games.com            IN CNAME .
 3537a.com            IN CNAME .
 3537bet5.com            IN CNAME .
 3537u.com            IN CNAME .
@@ -1698,7 +1720,9 @@ $TTL 1H
 365bet16.com            IN CNAME .
 365bra3.vip            IN CNAME .
 365dabarra.net            IN CNAME .
+365gamez.com            IN CNAME .
 365gg.bet            IN CNAME .
+365gg7.com            IN CNAME .
 365gg8.com            IN CNAME .
 365jogo.bet            IN CNAME .
 365jogo.com            IN CNAME .
@@ -2177,6 +2201,7 @@ $TTL 1H
 52bet55.com            IN CNAME .
 52bet6.com            IN CNAME .
 52bet7.com            IN CNAME .
+52bet77.com            IN CNAME .
 52bet8.com            IN CNAME .
 52bet88.com            IN CNAME .
 52bet9.com            IN CNAME .
@@ -2214,6 +2239,7 @@ $TTL 1H
 54bet3.com            IN CNAME .
 54bet4.com            IN CNAME .
 54bet6.com            IN CNAME .
+54bet7.com            IN CNAME .
 5500bet.cc            IN CNAME .
 5500bet.com            IN CNAME .
 5500bet.fun            IN CNAME .
@@ -2271,6 +2297,7 @@ $TTL 1H
 556bet.net            IN CNAME .
 556bet.vip            IN CNAME .
 55777bet.vip            IN CNAME .
+5577games.com            IN CNAME .
 5588bet.bet            IN CNAME .
 5588bet.casino            IN CNAME .
 5588bet.com            IN CNAME .
@@ -2299,6 +2326,7 @@ $TTL 1H
 55bet3333.com            IN CNAME .
 55bet88.vip            IN CNAME .
 55blbet.com            IN CNAME .
+55c2.com            IN CNAME .
 55cc.bet            IN CNAME .
 55f.cash            IN CNAME .
 55ff.bet            IN CNAME .
@@ -2413,6 +2441,7 @@ $TTL 1H
 5766win.com            IN CNAME .
 576win.net            IN CNAME .
 5770win.com            IN CNAME .
+5777games.com            IN CNAME .
 577bet.com            IN CNAME .
 577bet.com-r.vip            IN CNAME .
 577bet.cyou            IN CNAME .
@@ -2431,6 +2460,7 @@ $TTL 1H
 5851win.com            IN CNAME .
 5852win.com            IN CNAME .
 5853aa.com            IN CNAME .
+5853e.com            IN CNAME .
 5853win.com            IN CNAME .
 5854win.com            IN CNAME .
 5855win.com            IN CNAME .
@@ -2438,6 +2468,7 @@ $TTL 1H
 585bet.cc            IN CNAME .
 585bet0.com            IN CNAME .
 585bet1.com            IN CNAME .
+585bet12.com            IN CNAME .
 585bet2.com            IN CNAME .
 585bet4.com            IN CNAME .
 585bet5.com            IN CNAME .
@@ -2547,8 +2578,10 @@ $TTL 1H
 5euteamopg.com            IN CNAME .
 5filmestorrent.xyz            IN CNAME .
 5fun1911.com            IN CNAME .
+5gameh.com            IN CNAME .
 5gbet.ai            IN CNAME .
 5gbet.com            IN CNAME .
+5gbet.one            IN CNAME .
 5gbet1.com            IN CNAME .
 5gbet10.com            IN CNAME .
 5gbet250.com            IN CNAME .
@@ -2574,6 +2607,7 @@ $TTL 1H
 5hbetvip.top            IN CNAME .
 5honrapg.com            IN CNAME .
 5jxx.com            IN CNAME .
+5k.pro            IN CNAME .
 5ki7.com            IN CNAME .
 5l999.com            IN CNAME .
 5ljogo.vip            IN CNAME .
@@ -2729,6 +2763,7 @@ $TTL 1H
 622bett.com            IN CNAME .
 6292bett.com            IN CNAME .
 62bets.com            IN CNAME .
+62gamer.com            IN CNAME .
 6310pg.com            IN CNAME .
 631bett.com            IN CNAME .
 633jogo.com            IN CNAME .
@@ -2754,6 +2789,7 @@ $TTL 1H
 655bet1.com            IN CNAME .
 655bet12.com            IN CNAME .
 655bet15.com            IN CNAME .
+655bet16.com            IN CNAME .
 655bet2.com            IN CNAME .
 655bet22.com            IN CNAME .
 655bet3.com            IN CNAME .
@@ -2765,6 +2801,7 @@ $TTL 1H
 655bet8.com            IN CNAME .
 655bet9.com            IN CNAME .
 6566aff.com            IN CNAME .
+6566games.com            IN CNAME .
 658bet.com            IN CNAME .
 658bet1.com            IN CNAME .
 658bet2.com            IN CNAME .
@@ -2774,6 +2811,7 @@ $TTL 1H
 658bet8.com            IN CNAME .
 65bet365.vip            IN CNAME .
 65bett.com            IN CNAME .
+65x.com            IN CNAME .
 65x.ink            IN CNAME .
 65x00.com            IN CNAME .
 6605pg.com            IN CNAME .
@@ -2925,6 +2963,7 @@ $TTL 1H
 687game.com            IN CNAME .
 6886bet.vip            IN CNAME .
 6888dd.bet            IN CNAME .
+688923.com            IN CNAME .
 688bet.app            IN CNAME .
 688bet.bet            IN CNAME .
 688bet.com            IN CNAME .
@@ -3042,6 +3081,7 @@ $TTL 1H
 707bet.org            IN CNAME .
 707bet1.com            IN CNAME .
 707bet2.com            IN CNAME .
+707bet3.com            IN CNAME .
 707go5.com            IN CNAME .
 708vv.bet            IN CNAME .
 708ww.bet            IN CNAME .
@@ -3169,6 +3209,7 @@ $TTL 1H
 73bet7.com            IN CNAME .
 73bet8.com            IN CNAME .
 73bet9.com            IN CNAME .
+73bet99.com            IN CNAME .
 73bett.com            IN CNAME .
 745bett.com            IN CNAME .
 7474win.com            IN CNAME .
@@ -3180,6 +3221,7 @@ $TTL 1H
 74bet0.com            IN CNAME .
 74bet1.com            IN CNAME .
 74bet11.com            IN CNAME .
+74bet12.com            IN CNAME .
 74bet2.com            IN CNAME .
 74bet22.com            IN CNAME .
 74bet3.com            IN CNAME .
@@ -3238,6 +3280,7 @@ $TTL 1H
 7700bet.net            IN CNAME .
 7700bet.vip            IN CNAME .
 7700bet1.com            IN CNAME .
+7700bet11.com            IN CNAME .
 7700bet13.com            IN CNAME .
 7700bet15.com            IN CNAME .
 7700bet19.com            IN CNAME .
@@ -3305,9 +3348,11 @@ $TTL 1H
 7775win.com            IN CNAME .
 7777.center            IN CNAME .
 7777.com            IN CNAME .
+7777.games            IN CNAME .
 77777.click            IN CNAME .
 7777bet8.vip            IN CNAME .
 7777ewg.com            IN CNAME .
+7777games.com            IN CNAME .
 7777jogos.com            IN CNAME .
 7777plus.com            IN CNAME .
 7777win.bet            IN CNAME .
@@ -3322,8 +3367,10 @@ $TTL 1H
 777alfa.vip            IN CNAME .
 777anjo.com            IN CNAME .
 777anjos.com            IN CNAME .
+777banana.win            IN CNAME .
 777bet.fun            IN CNAME .
 777bets.com            IN CNAME .
+777bf28.com            IN CNAME .
 777bhp.org            IN CNAME .
 777clube.com            IN CNAME .
 777dbz.com            IN CNAME .
@@ -3334,6 +3381,7 @@ $TTL 1H
 777g.love            IN CNAME .
 777g.uk            IN CNAME .
 777g.vip            IN CNAME .
+777games.com            IN CNAME .
 777gold.bet            IN CNAME .
 777gpd.cc            IN CNAME .
 777grupo.in            IN CNAME .
@@ -3387,17 +3435,22 @@ $TTL 1H
 777tiger9.com            IN CNAME .
 777tim.vip            IN CNAME .
 777tropical.com            IN CNAME .
+777tttt1.com            IN CNAME .
+777tttt6.com            IN CNAME .
 777ubs.app            IN CNAME .
 777vk.bet            IN CNAME .
 777vs.me            IN CNAME .
 777vs.vip            IN CNAME .
 777win.bet            IN CNAME .
 777win.com            IN CNAME .
+777win0.com            IN CNAME .
 777win1.com            IN CNAME .
+777win2.com            IN CNAME .
 777win4.com            IN CNAME .
 777win5.com            IN CNAME .
 777win8.com            IN CNAME .
 777win9.com            IN CNAME .
+777winaa.com            IN CNAME .
 777winbb.com            IN CNAME .
 777winff.com            IN CNAME .
 777winpg.com            IN CNAME .
@@ -3426,6 +3479,7 @@ $TTL 1H
 7788bet44.com            IN CNAME .
 7788bet5.com            IN CNAME .
 7788bet6.com            IN CNAME .
+7788bet66.com            IN CNAME .
 7788bet7.com            IN CNAME .
 7788bet8.com            IN CNAME .
 7788bet88.com            IN CNAME .
@@ -3506,6 +3560,7 @@ $TTL 1H
 79bet8.com            IN CNAME .
 79bet9.com            IN CNAME .
 79win.asia            IN CNAME .
+79x16.com            IN CNAME .
 7a777.online            IN CNAME .
 7abracarpg.com            IN CNAME .
 7ac.club            IN CNAME .
@@ -3553,6 +3608,7 @@ $TTL 1H
 7fjogo.com            IN CNAME .
 7forever.xyz            IN CNAME .
 7g.club            IN CNAME .
+7gamea.com            IN CNAME .
 7gestopg.com            IN CNAME .
 7go.xyz            IN CNAME .
 7honrapg.com            IN CNAME .
@@ -3635,6 +3691,7 @@ $TTL 1H
 803game.com            IN CNAME .
 805game.com            IN CNAME .
 807game.com            IN CNAME .
+8080games.com            IN CNAME .
 808bet.vip            IN CNAME .
 8099bet.com            IN CNAME .
 8099bets.com            IN CNAME .
@@ -3678,6 +3735,7 @@ $TTL 1H
 80uu.bet            IN CNAME .
 80vv.bet            IN CNAME .
 80win1.com            IN CNAME .
+80win26.com            IN CNAME .
 80win4.com            IN CNAME .
 80ww.bet            IN CNAME .
 80xx.bet            IN CNAME .
@@ -3891,6 +3949,7 @@ $TTL 1H
 888game999.com            IN CNAME .
 888hot.cc            IN CNAME .
 888hot.com            IN CNAME .
+888hot.pro            IN CNAME .
 888hot.vip            IN CNAME .
 888hot2.com            IN CNAME .
 888hot5.com            IN CNAME .
@@ -3937,6 +3996,7 @@ $TTL 1H
 888pg07.com            IN CNAME .
 888pg08.com            IN CNAME .
 888pg10.com            IN CNAME .
+888skf.com            IN CNAME .
 888sport.com            IN CNAME .
 888win.com            IN CNAME .
 888win.vip            IN CNAME .
@@ -3960,6 +4020,7 @@ $TTL 1H
 88fp5.com            IN CNAME .
 88g.com            IN CNAME .
 88gameh5.br            IN CNAME .
+88gamer.com            IN CNAME .
 88iok.com            IN CNAME .
 88pg.com            IN CNAME .
 88pg1.com            IN CNAME .
@@ -3975,6 +4036,7 @@ $TTL 1H
 899bet.com            IN CNAME .
 899bet.game            IN CNAME .
 899bet.vip            IN CNAME .
+89b55.com            IN CNAME .
 89bet.ai            IN CNAME .
 89bet.com            IN CNAME .
 89bet.com.br            IN CNAME .
@@ -4003,6 +4065,7 @@ $TTL 1H
 8casino11.com            IN CNAME .
 8casino14.com            IN CNAME .
 8casino2.com            IN CNAME .
+8casino22.com            IN CNAME .
 8casino3.com            IN CNAME .
 8casino4.com            IN CNAME .
 8casino5.com            IN CNAME .
@@ -4058,6 +4121,7 @@ $TTL 1H
 9080bet.net            IN CNAME .
 9080bett.com            IN CNAME .
 9080win.vip            IN CNAME .
+9099games.com            IN CNAME .
 909bet.com            IN CNAME .
 909bets.com            IN CNAME .
 90game.com            IN CNAME .
@@ -4116,6 +4180,7 @@ $TTL 1H
 939bet1.com            IN CNAME .
 939bet1.vip            IN CNAME .
 939bet11.com            IN CNAME .
+939bet12.com            IN CNAME .
 939bet2.com            IN CNAME .
 939bet2.vip            IN CNAME .
 939bet22.com            IN CNAME .
@@ -4360,6 +4425,7 @@ $TTL 1H
 9brabet.com            IN CNAME .
 9brganhar.com            IN CNAME .
 9brincopg.com            IN CNAME .
+9brpg.space            IN CNAME .
 9ciliospg.com            IN CNAME .
 9cncbet.com            IN CNAME .
 9convert.cc            IN CNAME .
@@ -4376,6 +4442,7 @@ $TTL 1H
 9fb.com            IN CNAME .
 9fb3.com            IN CNAME .
 9fkkk.cc            IN CNAME .
+9fkkk.vip            IN CNAME .
 9fmovies.net            IN CNAME .
 9g.game            IN CNAME .
 9gestopg.com            IN CNAME .
@@ -4633,6 +4700,7 @@ aj-desafiopg.cc            IN CNAME .
 aj-desafiopg.net            IN CNAME .
 aj-itempg.com            IN CNAME .
 aj-itempg.net            IN CNAME .
+aj-kkapg.cc            IN CNAME .
 aj-kkapg.net            IN CNAME .
 aj-lojapg.cc            IN CNAME .
 aj-lojapg.com            IN CNAME .
@@ -4687,6 +4755,7 @@ altv01.top            IN CNAME .
 altv2.top            IN CNAME .
 am-2.bet            IN CNAME .
 am-777.com            IN CNAME .
+amabet.bet            IN CNAME .
 amadopg.com            IN CNAME .
 amanhecer777pg.com            IN CNAME .
 amarelopg.com            IN CNAME .
@@ -4719,6 +4788,7 @@ angelpg.com            IN CNAME .
 angerpg.com            IN CNAME .
 anifilmestorrents.net            IN CNAME .
 aniflix.website            IN CNAME .
+animabet.bet            IN CNAME .
 animais-pg.com            IN CNAME .
 animalgato.com            IN CNAME .
 animeflix.at            IN CNAME .
@@ -4791,6 +4861,7 @@ animesonlinex.xyz            IN CNAME .
 anitapg.com            IN CNAME .
 anjo718.com            IN CNAME .
 anjos777.vip            IN CNAME .
+anonovo.bet            IN CNAME .
 anotaai.xyz            IN CNAME .
 ansiar777.com            IN CNAME .
 anxietypg.com            IN CNAME .
@@ -5068,6 +5139,7 @@ azfkpg.com            IN CNAME .
 aztecpg.com            IN CNAME .
 azulpg.com            IN CNAME .
 azz.bet            IN CNAME .
+azzpg.cc            IN CNAME .
 b-bets.com            IN CNAME .
 b01.host            IN CNAME .
 b33.casino            IN CNAME .
@@ -5295,6 +5367,15 @@ bbbbgame6.com            IN CNAME .
 bbbbhappy.vip            IN CNAME .
 bbbbmk.com            IN CNAME .
 bbbfeliz.com            IN CNAME .
+bbbgame1.com            IN CNAME .
+bbbgame2.com            IN CNAME .
+bbbgame3.com            IN CNAME .
+bbbgame4.com            IN CNAME .
+bbbgame5.com            IN CNAME .
+bbbgame6.com            IN CNAME .
+bbbgame7.com            IN CNAME .
+bbbgame8.com            IN CNAME .
+bbbgame9.com            IN CNAME .
 bbbhappy.com            IN CNAME .
 bbbhappy.win            IN CNAME .
 bbbhappy0.com            IN CNAME .
@@ -5423,6 +5504,7 @@ beisebol777pg.com            IN CNAME .
 belajogada.com            IN CNAME .
 belasport.vip            IN CNAME .
 belezapg88.com            IN CNAME .
+bemslots.com            IN CNAME .
 benzamg777.com            IN CNAME .
 berrypg.com            IN CNAME .
 beruang368.com            IN CNAME .
@@ -5470,6 +5552,7 @@ bet0944.com            IN CNAME .
 bet0966.com            IN CNAME .
 bet10.com            IN CNAME .
 bet108.bet            IN CNAME .
+bet10e.com            IN CNAME .
 bet10f.com            IN CNAME .
 bet10g.com            IN CNAME .
 bet10h.com            IN CNAME .
@@ -5509,6 +5592,7 @@ bet3333.site            IN CNAME .
 bet335.bet            IN CNAME .
 bet355.vip            IN CNAME .
 bet356.bet            IN CNAME .
+bet365-online.com.br            IN CNAME .
 bet367.net            IN CNAME .
 bet37.bet            IN CNAME .
 bet389.bet            IN CNAME .
@@ -5736,6 +5820,7 @@ betifyme.com            IN CNAME .
 betinagold.com            IN CNAME .
 betinbet.net            IN CNAME .
 betinbr.com            IN CNAME .
+betinha.com            IN CNAME .
 betj9.com            IN CNAME .
 betjqk.com            IN CNAME .
 betjqk.org            IN CNAME .
@@ -5793,18 +5878,26 @@ betplay.io            IN CNAME .
 betplay27plus.net            IN CNAME .
 betpluton.com            IN CNAME .
 betqka.com            IN CNAME .
+betr777.com            IN CNAME .
 betr9.com            IN CNAME .
 betrally.icu            IN CNAME .
 betriqueza.com.br            IN CNAME .
 betrivers.com            IN CNAME .
 betrun.vip            IN CNAME .
 bets10.com.br            IN CNAME .
+bets251.com            IN CNAME .
 bets26.net            IN CNAME .
 bets265.com            IN CNAME .
+bets286.com            IN CNAME .
+bets3333.com            IN CNAME .
 bets365br.com            IN CNAME .
 bets367.net            IN CNAME .
+bets5688.com            IN CNAME .
 bets74.site            IN CNAME .
+bets809.com            IN CNAME .
+bets852.com            IN CNAME .
 bets88vip.com            IN CNAME .
+bets969.com            IN CNAME .
 bets99.net            IN CNAME .
 betsafe.com            IN CNAME .
 betsalfa.vip            IN CNAME .
@@ -5842,12 +5935,20 @@ betsshow.com            IN CNAME .
 betssons.bet            IN CNAME .
 betsss.cc            IN CNAME .
 betsuper.club            IN CNAME .
+bett111.com            IN CNAME .
+bett16.com            IN CNAME .
+bett360.com            IN CNAME .
+bett6666.com            IN CNAME .
+bett959.com            IN CNAME .
 bettao777.com            IN CNAME .
 betterbet.com            IN CNAME .
 bettigre.com            IN CNAME .
 bettiltoficial.com            IN CNAME .
 betting.bet            IN CNAME .
 bettingsites24.com            IN CNAME .
+betu400.com            IN CNAME .
+betu7.com            IN CNAME .
+betv7.com            IN CNAME .
 betvel.club            IN CNAME .
 betvida77.com            IN CNAME .
 betvitoria.com            IN CNAME .
@@ -5855,6 +5956,33 @@ betviva.bet            IN CNAME .
 betvou.club            IN CNAME .
 betvou.com            IN CNAME .
 betw.com            IN CNAME .
+betw100.com            IN CNAME .
+betw111.com            IN CNAME .
+betw18.com            IN CNAME .
+betw200.com            IN CNAME .
+betw22.com            IN CNAME .
+betw222.com            IN CNAME .
+betw258.com            IN CNAME .
+betw300.com            IN CNAME .
+betw33.com            IN CNAME .
+betw333.com            IN CNAME .
+betw400.com            IN CNAME .
+betw44.com            IN CNAME .
+betw444.com            IN CNAME .
+betw500.com            IN CNAME .
+betw555.com            IN CNAME .
+betw600.com            IN CNAME .
+betw666.com            IN CNAME .
+betw700.com            IN CNAME .
+betw77.com            IN CNAME .
+betw777.com            IN CNAME .
+betw8.com            IN CNAME .
+betw800.com            IN CNAME .
+betw88.com            IN CNAME .
+betw888.com            IN CNAME .
+betw900.com            IN CNAME .
+betw99.com            IN CNAME .
+betw999.com            IN CNAME .
 betwarrior.zendesk.com            IN CNAME .
 betwbr.com            IN CNAME .
 betweb.cc            IN CNAME .
@@ -5865,21 +5993,46 @@ betweb17.com            IN CNAME .
 betweb18.com            IN CNAME .
 betweb21.com            IN CNAME .
 betweb777.com            IN CNAME .
+betwin55.site            IN CNAME .
 betwinner-apostas.com            IN CNAME .
 betwinner.bet            IN CNAME .
 betwinner.com            IN CNAME .
 betwinner2.com            IN CNAME .
 betwinner2.com.br            IN CNAME .
 betworld.bet            IN CNAME .
+betx10.com            IN CNAME .
+betx20.com            IN CNAME .
+betx234.com            IN CNAME .
+betx3.vip            IN CNAME .
+betx33.com            IN CNAME .
+betx334.com            IN CNAME .
+betx36.com            IN CNAME .
+betx434.com            IN CNAME .
+betx444.com            IN CNAME .
+betx534.com            IN CNAME .
+betx55.com            IN CNAME .
 betx7.app            IN CNAME .
 betx9.com            IN CNAME .
+betx98.com            IN CNAME .
 bety.com            IN CNAME .
+bety12.com            IN CNAME .
+bety13.com            IN CNAME .
+bety14.com            IN CNAME .
+bety15.com            IN CNAME .
+bety16.com            IN CNAME .
+bety18.com            IN CNAME .
+bety19.com            IN CNAME .
+bety247.com            IN CNAME .
 betyetu.co.mz            IN CNAME .
+betz168.com            IN CNAME .
+betz3.com            IN CNAME .
+betz444.com            IN CNAME .
 betze10.com            IN CNAME .
 betze3.com            IN CNAME .
 betze5.com            IN CNAME .
 betze6.com            IN CNAME .
 betze9.com            IN CNAME .
+betzoid.com            IN CNAME .
 bflix-gg.lol            IN CNAME .
 bflix-official.net            IN CNAME .
 bflix-official.site            IN CNAME .
@@ -6196,6 +6349,7 @@ bluetvsuporte.com            IN CNAME .
 bluf.online            IN CNAME .
 blupg.com            IN CNAME .
 bmplus.online            IN CNAME .
+bmwmk.com            IN CNAME .
 bnchg.xyz            IN CNAME .
 bnih8hbhyn2hif0bqm8xlnwa886tsrwbpwrvg7oalg4weca5dfuhkfb51z7u2lj.foo            IN CNAME .
 bnih8hbhyn2hif0bqm8xlnwa886tsrwbpwrvg7oalg4weca5dfunkfb51z7u2lj.foo            IN CNAME .
@@ -6203,6 +6357,7 @@ bnxc.top            IN CNAME .
 boaz.top            IN CNAME .
 bobtvonline.negocio.site            IN CNAME .
 bocpg.com            IN CNAME .
+bodog.com            IN CNAME .
 boepg.com            IN CNAME .
 boi111.com            IN CNAME .
 boi5.com            IN CNAME .
@@ -6689,11 +6844,13 @@ casinomax.com            IN CNAME .
 casinometropol813.com            IN CNAME .
 casinomidas.com            IN CNAME .
 casinomilyon.org            IN CNAME .
+casinonoverification.com            IN CNAME .
 casinoonlinemx.mx            IN CNAME .
 casinoportugal.pt            IN CNAME .
 casinopunkz.io            IN CNAME .
 casinovip.cc            IN CNAME .
 casinovip.cm            IN CNAME .
+casinovip.tv            IN CNAME .
 casinovip.win            IN CNAME .
 casinovip0.com            IN CNAME .
 casinovip10.com            IN CNAME .
@@ -6824,6 +6981,15 @@ ccbrbet.com            IN CNAME .
 ccc88nn.xyz            IN CNAME .
 ccccgame8.com            IN CNAME .
 ccccmk.com            IN CNAME .
+cccgame1.com            IN CNAME .
+cccgame2.com            IN CNAME .
+cccgame3.com            IN CNAME .
+cccgame4.com            IN CNAME .
+cccgame5.com            IN CNAME .
+cccgame6.com            IN CNAME .
+cccgame7.com            IN CNAME .
+cccgame8.com            IN CNAME .
+cccgame9.com            IN CNAME .
 cccy8pg.com            IN CNAME .
 ccdn.ai            IN CNAME .
 ccdn.cx            IN CNAME .
@@ -6928,6 +7094,7 @@ cec777.com            IN CNAME .
 cec777.com.br            IN CNAME .
 central.blueplay.fun            IN CNAME .
 central.tvprodigital.ca            IN CNAME .
+centraldasbets.net.br            IN CNAME .
 centralflix.me            IN CNAME .
 centralflix.online            IN CNAME .
 centralmago.click            IN CNAME .
@@ -7370,6 +7537,7 @@ coroarbet.com            IN CNAME .
 correctcasino.com            IN CNAME .
 cors.fun            IN CNAME .
 corujaodofut.live            IN CNAME .
+corvopg.com            IN CNAME .
 costelinhajj.cf            IN CNAME .
 cowpg.com            IN CNAME .
 coxinhas777.com            IN CNAME .
@@ -8322,10 +8490,12 @@ cybersportsclub.com            IN CNAME .
 cyou77.com            IN CNAME .
 d1evy5k1ea6oar.cloudfront.net            IN CNAME .
 d2827bu48viujq.cloudfront.net            IN CNAME .
+d2893x7dguzc0h.cloudfront.net            IN CNAME .
 d289p555q58v78.cloudfront.net            IN CNAME .
 d2cli.pro            IN CNAME .
 d33.casino            IN CNAME .
 d333bet.com            IN CNAME .
+d33ee3wxavb33q.cloudfront.net            IN CNAME .
 d3ijen5shcrgwu.cloudfront.net            IN CNAME .
 d577bet.com            IN CNAME .
 d5sbet.com            IN CNAME .
@@ -8355,6 +8525,7 @@ danielgarcialeilao.org            IN CNAME .
 danielgarcialeilaos.com            IN CNAME .
 danielgarcialeilloes.com            IN CNAME .
 danielgarcialeiloes.net            IN CNAME .
+danielgarciaoficial.com            IN CNAME .
 danielgarciaoficial.org            IN CNAME .
 danirecargas.com            IN CNAME .
 dark168.fun            IN CNAME .
@@ -8434,6 +8605,7 @@ discuspg.bet            IN CNAME .
 discuspg.com            IN CNAME .
 divepg.com            IN CNAME .
 diversao777bet.com            IN CNAME .
+divertida77.com            IN CNAME .
 divertida888.top            IN CNAME .
 divinocursos.net            IN CNAME .
 divxfilmeonline.be            IN CNAME .
@@ -8492,6 +8664,7 @@ dnsxt.xyz            IN CNAME .
 dnsxx.com.br            IN CNAME .
 dnsxyz.xyz            IN CNAME .
 doce888.com            IN CNAME .
+docejogo.top            IN CNAME .
 docura777.cc            IN CNAME .
 docura777.com            IN CNAME .
 dod777.com            IN CNAME .
@@ -8649,6 +8822,7 @@ e33.casino            IN CNAME .
 e3peuin.com            IN CNAME .
 e3play.in            IN CNAME .
 e55055.com            IN CNAME .
+e55aa.com            IN CNAME .
 e577bet.com            IN CNAME .
 e66.games            IN CNAME .
 e66060.com            IN CNAME .
@@ -8691,7 +8865,15 @@ eebrbet.com            IN CNAME .
 eeee1998.com            IN CNAME .
 eeeejogo4.com            IN CNAME .
 eeeemk.com            IN CNAME .
+eeegame1.com            IN CNAME .
+eeegame2.com            IN CNAME .
+eeegame3.com            IN CNAME .
+eeegame4.com            IN CNAME .
+eeegame5.com            IN CNAME .
 eeegame6.com            IN CNAME .
+eeegame7.com            IN CNAME .
+eeegame8.com            IN CNAME .
+eeegame9.com            IN CNAME .
 eeeleao.com            IN CNAME .
 eeey8pg.com            IN CNAME .
 eekkpg.com            IN CNAME .
@@ -8748,6 +8930,7 @@ encrypted-encrypted-encrypted-encrypted-encrypted-encrypted.link            IN C
 encrypted-encryptedencrypted-encrypted-encrypted-encrypted.link            IN CNAME .
 enebet.com            IN CNAME .
 energia.bet            IN CNAME .
+entrarbet.com            IN CNAME .
 entreaqui.com            IN CNAME .
 entretenimentoilimitado.com            IN CNAME .
 enviosredplay.agencia-ads.com            IN CNAME .
@@ -8836,6 +9019,7 @@ esportivobets.com            IN CNAME .
 esquilopg.com            IN CNAME .
 esrv.cc            IN CNAME .
 estacaobet.com            IN CNAME .
+estadium-bet.com            IN CNAME .
 esteirapg-clbet.com            IN CNAME .
 estorilsolcasinos.pt            IN CNAME .
 estrelado777pg.com            IN CNAME .
@@ -8894,6 +9078,7 @@ f87775.com            IN CNAME .
 f87776.com            IN CNAME .
 f87777.com            IN CNAME .
 f87778.com            IN CNAME .
+f888hot.com            IN CNAME .
 f981.com            IN CNAME .
 fa-9f.com            IN CNAME .
 fa-hermes.com            IN CNAME .
@@ -8963,6 +9148,15 @@ fezbet.com            IN CNAME .
 fezbet1.com            IN CNAME .
 ffccpg.com            IN CNAME .
 ffffmk.com            IN CNAME .
+fffgame1.com            IN CNAME .
+fffgame2.com            IN CNAME .
+fffgame3.com            IN CNAME .
+fffgame4.com            IN CNAME .
+fffgame5.com            IN CNAME .
+fffgame6.com            IN CNAME .
+fffgame7.com            IN CNAME .
+fffgame8.com            IN CNAME .
+fffgame9.com            IN CNAME .
 ffggpg.com            IN CNAME .
 ffggspg.com            IN CNAME .
 ffind.biz            IN CNAME .
@@ -9492,6 +9686,7 @@ fmoviez.site            IN CNAME .
 fmpixel.top            IN CNAME .
 fmpx.vip            IN CNAME .
 fnwtpg.com            IN CNAME .
+foca777pg.com            IN CNAME .
 fofiunetigeron-line.com            IN CNAME .
 fofs.site            IN CNAME .
 fogo7777.com            IN CNAME .
@@ -10050,6 +10245,7 @@ game9279.com            IN CNAME .
 game9577.com            IN CNAME .
 game9987.com            IN CNAME .
 game999.win            IN CNAME .
+gameaacc.com.br            IN CNAME .
 gameaakk.com            IN CNAME .
 gamebbcc.com            IN CNAME .
 gamehh6.com            IN CNAME .
@@ -10124,6 +10320,15 @@ gg196.bet            IN CNAME .
 ggbetpro.com            IN CNAME .
 ggd777.com            IN CNAME .
 ggg1998.com            IN CNAME .
+ggggame1.com            IN CNAME .
+ggggame2.com            IN CNAME .
+ggggame3.com            IN CNAME .
+ggggame4.com            IN CNAME .
+ggggame5.com            IN CNAME .
+ggggame6.com            IN CNAME .
+ggggame7.com            IN CNAME .
+ggggame8.com            IN CNAME .
+ggggame9.com            IN CNAME .
 gggjogo.com            IN CNAME .
 ggkpg.com            IN CNAME .
 gglgpg.com            IN CNAME .
@@ -10294,6 +10499,7 @@ greenbets.io            IN CNAME .
 greenbets.net            IN CNAME .
 greenbets1.com            IN CNAME .
 greenfieldpg.com            IN CNAME .
+greenpixzadabet.com.br            IN CNAME .
 greensports.bet            IN CNAME .
 grego777.com            IN CNAME .
 grianze.com            IN CNAME .
@@ -10316,6 +10522,7 @@ gtv-sm83.site            IN CNAME .
 gtwin.cc            IN CNAME .
 gtwin.com            IN CNAME .
 gtwin.vip            IN CNAME .
+gtwin1.vip            IN CNAME .
 gtwin10.com            IN CNAME .
 gtwin11.com            IN CNAME .
 gtwin15.com            IN CNAME .
@@ -10323,6 +10530,7 @@ gtwin4.com            IN CNAME .
 gtwin5.com            IN CNAME .
 gtwin8.vip            IN CNAME .
 gtwin9.com            IN CNAME .
+guaxinim777pg.com            IN CNAME .
 guaxinimpg.com            IN CNAME .
 gucci777-bet.com            IN CNAME .
 gucci777.in            IN CNAME .
@@ -10820,6 +11028,7 @@ iserialehd.net            IN CNAME .
 island777.com            IN CNAME .
 islepg.com            IN CNAME .
 isstv.top            IN CNAME .
+itabet.bet            IN CNAME .
 italach.com            IN CNAME .
 itasports.com.br            IN CNAME .
 itatiaiamgnoticias.10web.me            IN CNAME .
@@ -11176,6 +11385,7 @@ kslotsgame.com            IN CNAME .
 kstar99.bet            IN CNAME .
 kstv.us            IN CNAME .
 ksv88.com            IN CNAME .
+ktobet.io            IN CNAME .
 ktopg.com            IN CNAME .
 ktowin.net            IN CNAME .
 ktslots.com            IN CNAME .
@@ -11273,8 +11483,10 @@ letswin.bet            IN CNAME .
 letterpg.com            IN CNAME .
 lexustv.top            IN CNAME .
 lfilmes.com            IN CNAME .
+lg-lua.com            IN CNAME .
 lg-top1.com            IN CNAME .
 lg-universo.com            IN CNAME .
+lg-whiskey.com            IN CNAME .
 lg.lamborghini777bet.com            IN CNAME .
 lhdbet.com            IN CNAME .
 liabilitypg.com            IN CNAME .
@@ -11336,6 +11548,7 @@ livetvgod.top            IN CNAME .
 livetvpro.site            IN CNAME .
 livrepg777.com            IN CNAME .
 livropg.com            IN CNAME .
+lk777pg.com            IN CNAME .
 ll1998d.com            IN CNAME .
 llemon7777.com            IN CNAME .
 lll.game            IN CNAME .
@@ -11482,6 +11695,7 @@ lovepg8.com            IN CNAME .
 lovepg9.com            IN CNAME .
 loves777.net            IN CNAME .
 lovewin.fun            IN CNAME .
+lp3.cassbt.com            IN CNAME .
 lplay.net            IN CNAME .
 lqbet.com            IN CNAME .
 lqbet.net            IN CNAME .
@@ -11662,12 +11876,14 @@ m.blaze777bet.com            IN CNAME .
 m.blaze777slots.com            IN CNAME .
 m.boasfestas777.com            IN CNAME .
 m.bronzeada777lg.com            IN CNAME .
+m.buldogue777pg.com            IN CNAME .
 m.buraco777slots.com            IN CNAME .
 m.caipirinha777slots.com            IN CNAME .
 m.capoeira777lg.com            IN CNAME .
 m.caraca777.com            IN CNAME .
 m.caribbean777pg.com            IN CNAME .
 m.carro777.com            IN CNAME .
+m.caruru777lg.com            IN CNAME .
 m.cavaleiro777pg.com            IN CNAME .
 m.cinema777slots.com            IN CNAME .
 m.coelhopascoa777.com            IN CNAME .
@@ -11692,6 +11908,7 @@ m.garfield777pg.com            IN CNAME .
 m.gato777slots.com            IN CNAME .
 m.glamour777bet.com            IN CNAME .
 m.gohan777bet.com            IN CNAME .
+m.helicopteros-lg.com            IN CNAME .
 m.honda777lg.com            IN CNAME .
 m.husky777bet.com            IN CNAME .
 m.hytalo.com            IN CNAME .
@@ -12747,6 +12964,7 @@ mrfilmesonline.com            IN CNAME .
 mrjack-bet.com            IN CNAME .
 mrplay.top            IN CNAME .
 msbetsports.com            IN CNAME .
+msnpg.com            IN CNAME .
 msport.com            IN CNAME .
 msrvplay.top            IN CNAME .
 msrvplay.xyz            IN CNAME .
@@ -13281,6 +13499,15 @@ nnbet9.com            IN CNAME .
 nnbet99.com            IN CNAME .
 nnbet999.com            IN CNAME .
 nnnbet.vip            IN CNAME .
+nnngame1.com            IN CNAME .
+nnngame2.com            IN CNAME .
+nnngame3.com            IN CNAME .
+nnngame4.com            IN CNAME .
+nnngame5.com            IN CNAME .
+nnngame6.com            IN CNAME .
+nnngame7.com            IN CNAME .
+nnngame8.com            IN CNAME .
+nnngame9.com            IN CNAME .
 nnnjogo.bet            IN CNAME .
 nnnngame6.com            IN CNAME .
 nnnnmk.com            IN CNAME .
@@ -13389,6 +13616,7 @@ nuvensgratismyfamilycinema.com            IN CNAME .
 nuw9.com            IN CNAME .
 nxnxpg.com            IN CNAME .
 nyoxpros.com            IN CNAME .
+o2obet.com            IN CNAME .
 o3.casino            IN CNAME .
 o7.vc            IN CNAME .
 oakleafpg.com            IN CNAME .
@@ -13439,6 +13667,7 @@ ofwshow.ru            IN CNAME .
 ofwshows.su            IN CNAME .
 ogjogo.com            IN CNAME .
 ogjogo0.com            IN CNAME .
+ogjogo1.com            IN CNAME .
 ohanaslots.com            IN CNAME .
 oia.digital            IN CNAME .
 oibet.net            IN CNAME .
@@ -13452,6 +13681,7 @@ oijogos.com            IN CNAME .
 ojwin.bet            IN CNAME .
 ojwin1.com            IN CNAME .
 ojwinaws1.com            IN CNAME .
+ok333.com            IN CNAME .
 ok8.group            IN CNAME .
 okgame777.com            IN CNAME .
 okgo777.com            IN CNAME .
@@ -13465,6 +13695,7 @@ okpg.app            IN CNAME .
 okpg.vip            IN CNAME .
 oksme.com            IN CNAME .
 oksme.vip            IN CNAME .
+ola2a.com            IN CNAME .
 ola7k.com            IN CNAME .
 olasorte.com            IN CNAME .
 olimp.bet            IN CNAME .
@@ -13509,6 +13740,7 @@ onetv1.tv            IN CNAME .
 onixtv.top            IN CNAME .
 onko.zip            IN CNAME .
 online123movies.net            IN CNAME .
+onlinecasinobestreviews.com            IN CNAME .
 onlinefilmeshd.com.br            IN CNAME .
 onlinevideoconverter.com            IN CNAME .
 onlinevideoconverter.party            IN CNAME .
@@ -13564,6 +13796,7 @@ orionplay.xyz            IN CNAME .
 osferasbets.com            IN CNAME .
 otampadabola.org            IN CNAME .
 otampadabola.tv            IN CNAME .
+otenbet.com            IN CNAME .
 otlv.live            IN CNAME .
 otterpg.com            IN CNAME .
 otterpg.vip            IN CNAME .
@@ -13715,6 +13948,7 @@ own777.com            IN CNAME .
 own777.vip            IN CNAME .
 own777a.com            IN CNAME .
 own777b.com            IN CNAME .
+own777bb.biz            IN CNAME .
 ox5151.com            IN CNAME .
 ox777.com            IN CNAME .
 oxe777.cc            IN CNAME .
@@ -13788,6 +14022,7 @@ paraiso-777.com            IN CNAME .
 paratysports.com            IN CNAME .
 parazaobet.com            IN CNAME .
 parcerioscdn.click            IN CNAME .
+parimatchh.com.br            IN CNAME .
 paripesa.xyz            IN CNAME .
 parisjogo.bet            IN CNAME .
 parisjogo.com            IN CNAME .
@@ -13824,6 +14059,7 @@ pddfast.link            IN CNAME .
 pddnet.link            IN CNAME .
 pddpg.com            IN CNAME .
 pddweb.link            IN CNAME .
+pdgbet.vip            IN CNAME .
 pdsrv.io            IN CNAME .
 peacock777.bet            IN CNAME .
 peacock777.com            IN CNAME .
@@ -14095,6 +14331,7 @@ piabbet.com            IN CNAME .
 piauibets.com            IN CNAME .
 picapaunet.top            IN CNAME .
 picolo777.com            IN CNAME .
+pig-777.com            IN CNAME .
 pigpg.fit            IN CNAME .
 pikachupg.com            IN CNAME .
 pimenta666.com            IN CNAME .
@@ -14149,6 +14386,7 @@ pix.apostas.game            IN CNAME .
 pixbet77.net            IN CNAME .
 pixdasortebet.com            IN CNAME .
 pixela87.top            IN CNAME .
+pixelplane.xyz            IN CNAME .
 pixelspg.com            IN CNAME .
 pixjpg.com            IN CNAME .
 pixslots.io            IN CNAME .
@@ -14175,6 +14413,7 @@ planostve.com            IN CNAME .
 platincasino.com            IN CNAME .
 play-series.online            IN CNAME .
 play.3633bet-9.vip            IN CNAME .
+play.65x.social            IN CNAME .
 play.betd99.com            IN CNAME .
 play.sbobet.com            IN CNAME .
 play.seriesflixbr.com            IN CNAME .
@@ -14195,6 +14434,7 @@ playerblue.me            IN CNAME .
 playerforus.com            IN CNAME .
 playervipmaster.com            IN CNAME .
 playfilmehd.com            IN CNAME .
+playfortuna.com            IN CNAME .
 playground-777.com            IN CNAME .
 playhdfilmes.com.br            IN CNAME .
 playing.io            IN CNAME .
@@ -14794,6 +15034,8 @@ pwponline.click            IN CNAME .
 pyto.online            IN CNAME .
 pzbuk.pl            IN CNAME .
 pzzpg.com            IN CNAME .
+q1-acaipg5.com            IN CNAME .
+q1-balao7.com            IN CNAME .
 q1-irmao77.com            IN CNAME .
 q1-pandapg7.com            IN CNAME .
 q1-soja77.com            IN CNAME .
@@ -14866,6 +15108,7 @@ r7aaaa.com            IN CNAME .
 r7cccc.com            IN CNAME .
 r7jogo.vip            IN CNAME .
 r9jogo.com            IN CNAME .
+rabbit2a.com            IN CNAME .
 rabona.com            IN CNAME .
 rabona1.com            IN CNAME .
 raftpg.com            IN CNAME .
@@ -15290,6 +15533,7 @@ rgbet6.com            IN CNAME .
 ricdns.com            IN CNAME .
 rich11bet.com            IN CNAME .
 richnow.co            IN CNAME .
+rico-7.com            IN CNAME .
 rico8.com            IN CNAME .
 ricobet.win            IN CNAME .
 ricobetpg.com            IN CNAME .
@@ -15327,6 +15571,7 @@ rodadadoobydoo.com.br            IN CNAME .
 rodbok.vip            IN CNAME .
 rogerbradfield.com            IN CNAME .
 rolletto.com            IN CNAME .
+rollsmk.com            IN CNAME .
 rollsun.com            IN CNAME .
 romapg.bet            IN CNAME .
 romapg.com            IN CNAME .
@@ -15450,6 +15695,7 @@ sbet89.com            IN CNAME .
 sbt.wiki            IN CNAME .
 sbt2.wiki            IN CNAME .
 sbtaovivo.com            IN CNAME .
+scarabpg.com            IN CNAME .
 scesportes.com            IN CNAME .
 scorebet.bet            IN CNAME .
 scorebets.online            IN CNAME .
@@ -15840,6 +16086,7 @@ setebet9.com            IN CNAME .
 setewin4.com            IN CNAME .
 seu777.co            IN CNAME .
 seu777.com            IN CNAME .
+seubingo.bet            IN CNAME .
 seufilme.net            IN CNAME .
 seufilme.pics            IN CNAME .
 seufilmedublado.com            IN CNAME .
@@ -15888,6 +16135,7 @@ seuwin.net            IN CNAME .
 seuwin1.com            IN CNAME .
 seuwin2.com            IN CNAME .
 seuwin3.com            IN CNAME .
+seuwin4.com            IN CNAME .
 seuwin5.com            IN CNAME .
 sfgvx75u.com            IN CNAME .
 sfilmesonline.com            IN CNAME .
@@ -16152,6 +16400,7 @@ sspdigital.cc            IN CNAME .
 sssboi.com            IN CNAME .
 sssfut.com            IN CNAME .
 sssgame.com            IN CNAME .
+sssgame0.com            IN CNAME .
 sssgame1.com            IN CNAME .
 sssgame2.com            IN CNAME .
 sssgame3.com            IN CNAME .
@@ -16160,9 +16409,11 @@ sssgame5.com            IN CNAME .
 sssgame6.com            IN CNAME .
 sssgame7.com            IN CNAME .
 sssgame77.com            IN CNAME .
+sssgame789.com            IN CNAME .
 sssgame8.com            IN CNAME .
 sssjogo.com            IN CNAME .
 ssss1998.com            IN CNAME .
+ssssjogo.com.br            IN CNAME .
 ssssmk.com            IN CNAME .
 ssssmk7.com            IN CNAME .
 ssuny1.com            IN CNAME .
@@ -16587,6 +16838,7 @@ systematop.com            IN CNAME .
 t1-esperanca-pg.com            IN CNAME .
 t1-frozen-pg.com            IN CNAME .
 t1-wins-pg.com            IN CNAME .
+t20fun.net            IN CNAME .
 t22033.com            IN CNAME .
 t2cli.xyz            IN CNAME .
 t3.casino            IN CNAME .
@@ -16697,6 +16949,7 @@ teprbr.xyz            IN CNAME .
 ter777.cc            IN CNAME .
 ter777.com            IN CNAME .
 tesaodevacax.com            IN CNAME .
+tesla777pg.com            IN CNAME .
 testerosh.top            IN CNAME .
 testewilly.top            IN CNAME .
 tfjogo.com            IN CNAME .
@@ -16801,6 +17054,7 @@ tick.lat            IN CNAME .
 tiepg.com            IN CNAME .
 tiepg.comhome            IN CNAME .
 tiger-cacobet.com            IN CNAME .
+tiger2a.com            IN CNAME .
 tigervip.cc            IN CNAME .
 tigervip.com            IN CNAME .
 tigervip03.com            IN CNAME .
@@ -16846,9 +17100,11 @@ tomyer.in            IN CNAME .
 toopflix.cc            IN CNAME .
 top-canais.blogspot.com            IN CNAME .
 top-flix.org            IN CNAME .
+top881.win            IN CNAME .
 top882.net            IN CNAME .
 top883.co            IN CNAME .
 top883.vip            IN CNAME .
+top885.org            IN CNAME .
 top992.top            IN CNAME .
 top993.net            IN CNAME .
 top995.cc            IN CNAME .
@@ -17251,6 +17507,7 @@ toureiropg.com            IN CNAME .
 touropg.com            IN CNAME .
 touroprimbull.top            IN CNAME .
 toypg.com            IN CNAME .
+tp88yes.com            IN CNAME .
 tplayer.live            IN CNAME .
 tpp.bet            IN CNAME .
 tpt.bet            IN CNAME .
@@ -17287,6 +17544,7 @@ ttbpg.com            IN CNAME .
 ttkbet.com            IN CNAME .
 ttkbet5.com            IN CNAME .
 ttkbet6.com            IN CNAME .
+ttkbet7.com            IN CNAME .
 ttkbet8.com            IN CNAME .
 ttkbet9.com            IN CNAME .
 ttkkpg.com            IN CNAME .
@@ -17742,6 +18000,7 @@ ultraflixcinemaxhd.com            IN CNAME .
 ultraflixtv.com            IN CNAME .
 ultraflixtv.live            IN CNAME .
 ultrapremium.cloud            IN CNAME .
+ultrapremiumdomains.com            IN CNAME .
 ultrasatredplay.com            IN CNAME .
 ultratvexpress.com            IN CNAME .
 ulttv.xyz            IN CNAME .
@@ -17869,6 +18128,7 @@ v77bet6.com            IN CNAME .
 v77bet7.com            IN CNAME .
 v77bet8.com            IN CNAME .
 v77bet9.com            IN CNAME .
+v7j6w9.com            IN CNAME .
 v7l7k5.com            IN CNAME .
 v9u.com            IN CNAME .
 vai777.cc            IN CNAME .
@@ -17888,6 +18148,7 @@ vaporclube.com            IN CNAME .
 vaporesabor.com            IN CNAME .
 vave4.com            IN CNAME .
 vb777.com.co            IN CNAME .
+vb777y.icu            IN CNAME .
 vbet184.com            IN CNAME .
 vbet21.com            IN CNAME .
 vbet216.com            IN CNAME .
@@ -17974,6 +18235,7 @@ victoriabets.com            IN CNAME .
 vida123.com            IN CNAME .
 vidapg.com            IN CNAME .
 vidavegas.com            IN CNAME .
+vidavegas1.com            IN CNAME .
 video-to-mp3-converter.com            IN CNAME .
 videovor.com            IN CNAME .
 villaclubtv.com            IN CNAME .
@@ -18157,6 +18419,7 @@ voy-hatpg.com            IN CNAME .
 voy-ivorypg.com            IN CNAME .
 voy-mochilapg.com            IN CNAME .
 voy-oakleafpg.com            IN CNAME .
+voy-skispg.com            IN CNAME .
 voy-voleibolpg.com            IN CNAME .
 voygrupo.com            IN CNAME .
 voz.one            IN CNAME .
@@ -18244,6 +18507,7 @@ w1-volvopg.bet            IN CNAME .
 w1-vr6.bet            IN CNAME .
 w1-w1fff.com            IN CNAME .
 w1-walruspg.com            IN CNAME .
+w1-whiskeypg.vip            IN CNAME .
 w123moviesfree.com            IN CNAME .
 w123moviesfree.net            IN CNAME .
 w1casino.com            IN CNAME .
@@ -18321,6 +18585,7 @@ weplay1.dreamtv.tech            IN CNAME .
 wesley-pg.com            IN CNAME .
 wfcprime.top            IN CNAME .
 wfilmestorrent.net            IN CNAME .
+wg-2025.com            IN CNAME .
 wg-amor.com            IN CNAME .
 wg-carro.com            IN CNAME .
 wg-cat.com            IN CNAME .
@@ -18751,6 +19016,7 @@ winbetweb.com            IN CNAME .
 winbll.com            IN CNAME .
 winbra.com            IN CNAME .
 winbraii.com            IN CNAME .
+winbw765-gt.com            IN CNAME .
 windmillpg.vip            IN CNAME .
 winfortuna.bet            IN CNAME .
 winhoje.com            IN CNAME .
@@ -18763,6 +19029,7 @@ winpg27.com            IN CNAME .
 winqqq.app            IN CNAME .
 winxx518.com            IN CNAME .
 winz.io            IN CNAME .
+winz2.me            IN CNAME .
 wjbet.cc            IN CNAME .
 wjcassinobr.com            IN CNAME .
 wjplus.com            IN CNAME .
@@ -18795,6 +19062,7 @@ wthepiratefilme.fun            IN CNAME .
 wthepiratefilme.net            IN CNAME .
 wthepiratefilmes.in            IN CNAME .
 wuci.zip            IN CNAME .
+wudi.66bes5.top            IN CNAME .
 wukongpg.cc            IN CNAME .
 wukongpp.com            IN CNAME .
 ww1.bflixto.me            IN CNAME .
@@ -18821,6 +19089,7 @@ www2.pelisplus.ws            IN CNAME .
 www5.himovies.to            IN CNAME .
 www66win.vip            IN CNAME .
 wwwfilmesonlinehd.live            IN CNAME .
+wwwgame365.com            IN CNAME .
 wwws7bet.com            IN CNAME .
 wxwx0.com            IN CNAME .
 wyrnh.fyi            IN CNAME .
@@ -18968,6 +19237,7 @@ xjwin22.com            IN CNAME .
 xjwin3.com            IN CNAME .
 xjwin4.com            IN CNAME .
 xjwin5.com            IN CNAME .
+xjwin55.com            IN CNAME .
 xjwin7.com            IN CNAME .
 xkkbet.com            IN CNAME .
 xlinesys.xyz            IN CNAME .
@@ -19087,6 +19357,7 @@ ymp4.download            IN CNAME .
 ymp4.pro            IN CNAME .
 ymp4.xyz            IN CNAME .
 ynppg.com            IN CNAME .
+yns7774.com            IN CNAME .
 yokibl.net            IN CNAME .
 yonexpg.com            IN CNAME .
 yoopg.com            IN CNAME .
@@ -19292,6 +19563,7 @@ zeb2.top            IN CNAME .
 zebrapg.cc            IN CNAME .
 zec4.club            IN CNAME .
 zed2.top            IN CNAME .
+zedocash.com            IN CNAME .
 zedoflix.com            IN CNAME .
 zes2.top            IN CNAME .
 zes3.top            IN CNAME .
