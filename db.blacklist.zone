@@ -1,6 +1,6 @@
 $TTL 1H
 @       IN      SOA LOCALHOST. localhost.localhost. (
-                2025021601     ; Serial
+                2025022201     ; Serial
                 1h              ; Refresh
                 15m             ; Retry
                 30d             ; Expire
@@ -8,7 +8,7 @@ $TTL 1H
         )
         NS  localhost.
     
-;Atualizado em: 16-02-2025 20:34:13
+;Atualizado em: 22-02-2025 18:47:35
 0007bet.com            IN CNAME .
 0012bet.com            IN CNAME .
 001game1.com            IN CNAME .
@@ -12469,7 +12469,6 @@ marathonbet.com            IN CNAME .
 maregeu777.com            IN CNAME .
 maromba.bet            IN CNAME .
 maromba.top            IN CNAME .
-marombabet.com            IN CNAME .
 mars999.club            IN CNAME .
 martepg.bet            IN CNAME .
 marujonet.work            IN CNAME .
@@ -12867,6 +12866,7 @@ megaflix.com.br            IN CNAME .
 megaflix.cx            IN CNAME .
 megaflix.dad            IN CNAME .
 megaflix.foo            IN CNAME .
+megaflix.icu            IN CNAME .
 megaflix.in            IN CNAME .
 megaflix.ink            IN CNAME .
 megaflix.is            IN CNAME .
@@ -13467,6 +13467,7 @@ multicanais.ad            IN CNAME .
 multicanais.ag            IN CNAME .
 multicanais.am            IN CNAME .
 multicanais.app            IN CNAME .
+multicanais.app.br            IN CNAME .
 multicanais.art            IN CNAME .
 multicanais.at            IN CNAME .
 multicanais.baby            IN CNAME .
@@ -13870,6 +13871,7 @@ netcine.lol            IN CNAME .
 netcine.me            IN CNAME .
 netcine.mov            IN CNAME .
 netcine.one            IN CNAME .
+netcine.org.im            IN CNAME .
 netcine.pics            IN CNAME .
 netcine.pm            IN CNAME .
 netcine.pro            IN CNAME .
@@ -16250,6 +16252,7 @@ rubi9988.com            IN CNAME .
 rubrue.ws            IN CNAME .
 rubybet.com            IN CNAME .
 rum-ak.com            IN CNAME .
+rumble.com            IN CNAME .
 rummyalano35.com            IN CNAME .
 rumpg.com            IN CNAME .
 runpoint.pro            IN CNAME .
@@ -16589,6 +16592,7 @@ seriesflixtv1.live            IN CNAME .
 seriesflixtv2.cam            IN CNAME .
 seriesflixtv2.co            IN CNAME .
 seriesflixtv2.com            IN CNAME .
+seriesflixtv2.life            IN CNAME .
 seriesflixtv2.live            IN CNAME .
 seriesflixtv2.me            IN CNAME .
 seriesflixtv2.net            IN CNAME .
@@ -17211,6 +17215,8 @@ superbets365.info            IN CNAME .
 superbetvip.net            IN CNAME .
 superboll.vip            IN CNAME .
 supercanal-aovivo.com            IN CNAME .
+supercine.com.im            IN CNAME .
+supercine.live            IN CNAME .
 supercine.to            IN CNAME .
 superesportes.net            IN CNAME .
 superesportes13.bet            IN CNAME .
@@ -17383,8 +17389,10 @@ superflixbr.co            IN CNAME .
 superflixbr.com            IN CNAME .
 superflixbr.info            IN CNAME .
 superflixbr.live            IN CNAME .
+superflixbr.love            IN CNAME .
 superflixbr.me            IN CNAME .
 superflixbr.pro            IN CNAME .
+superflixbr.site            IN CNAME .
 superflixbr.top            IN CNAME .
 superflixcanais.co            IN CNAME .
 superflixcanais.com            IN CNAME .
@@ -17416,6 +17424,7 @@ superflixplay.com            IN CNAME .
 superflixplay.xyz            IN CNAME .
 superflixplus.com            IN CNAME .
 superflixseries.online            IN CNAME .
+superflixtv.art            IN CNAME .
 superflixtv.cam            IN CNAME .
 superflixtv.com            IN CNAME .
 superflixtv.life            IN CNAME .
@@ -17437,6 +17446,7 @@ superflixz.com            IN CNAME .
 superflixz.dev            IN CNAME .
 superflixz.net            IN CNAME .
 superflixz.org            IN CNAME .
+superflixz.vip            IN CNAME .
 superfutebol.com.br            IN CNAME .
 superfutebol.tv            IN CNAME .
 superfx.live            IN CNAME .
@@ -18780,6 +18790,7 @@ umibet2.com            IN CNAME .
 umwin.win            IN CNAME .
 umwin0.com            IN CNAME .
 umwin4.com            IN CNAME .
+unblocked.watch            IN CNAME .
 unesp777.com            IN CNAME .
 uniaobet.com            IN CNAME .
 uniaobet.net            IN CNAME .
