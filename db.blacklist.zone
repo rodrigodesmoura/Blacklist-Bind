@@ -1,6 +1,6 @@
 $TTL 1H
 @       IN      SOA LOCALHOST. localhost.localhost. (
-                2025022501     ; Serial
+                2025022801     ; Serial
                 1h              ; Refresh
                 15m             ; Retry
                 30d             ; Expire
@@ -8,7 +8,7 @@ $TTL 1H
         )
         NS  localhost.
     
-;Atualizado em: 25-02-2025 16:43:00
+;Atualizado em: 28-02-2025 18:17:15
 0007bet.com            IN CNAME .
 0012bet.com            IN CNAME .
 001game1.com            IN CNAME .
@@ -12777,6 +12777,7 @@ marathonbet.com            IN CNAME .
 maregeu777.com            IN CNAME .
 maromba.bet            IN CNAME .
 maromba.top            IN CNAME .
+marombabet.com            IN CNAME .
 mars999.club            IN CNAME .
 martepg.bet            IN CNAME .
 marujonet.work            IN CNAME .
@@ -16102,6 +16103,7 @@ ranchowin.com            IN CNAME .
 rankedbr.com            IN CNAME .
 rapwinlife.com            IN CNAME .
 rateiodigital.com            IN CNAME .
+rateiosdecurso.com            IN CNAME .
 ratesold.cc            IN CNAME .
 ratopg.com            IN CNAME .
 razyal.tel            IN CNAME .
@@ -16340,6 +16342,7 @@ redecanaistv.click            IN CNAME .
 redecanaistv.co            IN CNAME .
 redecanaistv.com            IN CNAME .
 redecanaistv.com.br            IN CNAME .
+redecanaistv.com.im            IN CNAME .
 redecanaistv.cx            IN CNAME .
 redecanaistv.dad            IN CNAME .
 redecanaistv.day            IN CNAME .
