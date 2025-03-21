@@ -1,6 +1,6 @@
 $TTL 1H
 @       IN      SOA LOCALHOST. localhost.localhost. (
-                2025031901     ; Serial
+                2025032101     ; Serial
                 1h              ; Refresh
                 15m             ; Retry
                 30d             ; Expire
@@ -8,7 +8,7 @@ $TTL 1H
         )
         NS  localhost.
     
-;Atualizado em: 19-03-2025 16:42:58
+;Atualizado em: 21-03-2025 09:47:03
 0007bet.com            IN CNAME .
 00123movie.com            IN CNAME .
 00123moviess.com            IN CNAME .
@@ -4896,7 +4896,6 @@ $TTL 1H
 9cpbet.com            IN CNAME .
 9d-casino.com            IN CNAME .
 9d-cassino.com            IN CNAME .
-9d.bet.br            IN CNAME .
 9d.game            IN CNAME .
 9d53.com            IN CNAME .
 9dancapg.com            IN CNAME .
@@ -8100,7 +8099,6 @@ cio777.com            IN CNAME .
 cis777.cc            IN CNAME .
 cis777.com            IN CNAME .
 citobet.com            IN CNAME .
-citybets.wee.bet            IN CNAME .
 ck-trevopg.bet            IN CNAME .
 ck777.com            IN CNAME .
 ck777.win            IN CNAME .
@@ -17408,7 +17406,6 @@ rsslots.com            IN CNAME .
 rtp-slotonline.com            IN CNAME .
 ruang80s.com            IN CNAME .
 rubi9988.com            IN CNAME .
-rubinhosports.wee.bet            IN CNAME .
 rubrue.ws            IN CNAME .
 rubybet.com            IN CNAME .
 rum-ak.com            IN CNAME .
@@ -20753,7 +20750,6 @@ webplayertv.com            IN CNAME .
 webplayneon.com            IN CNAME .
 websmt.ca            IN CNAME .
 webwed.vip            IN CNAME .
-wee.bet            IN CNAME .
 weplay1.dreamtv.tech            IN CNAME .
 wesley-pg.com            IN CNAME .
 wfcprime.top            IN CNAME .
