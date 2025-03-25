@@ -1,6 +1,6 @@
 $TTL 1H
 @       IN      SOA LOCALHOST. localhost.localhost. (
-                2025032101     ; Serial
+                2025032501     ; Serial
                 1h              ; Refresh
                 15m             ; Retry
                 30d             ; Expire
@@ -8,7 +8,7 @@ $TTL 1H
         )
         NS  localhost.
     
-;Atualizado em: 21-03-2025 09:47:03
+;Atualizado em: 25-03-2025 10:12:23
 0007bet.com            IN CNAME .
 00123movie.com            IN CNAME .
 00123moviess.com            IN CNAME .
@@ -1261,7 +1261,6 @@ $TTL 1H
 1gestowin.com            IN CNAME .
 1gg.casino            IN CNAME .
 1gjogo.vip            IN CNAME .
-1gkh3h89c.com            IN CNAME .
 1globonet.net            IN CNAME .
 1gocasino44.com            IN CNAME .
 1golfinhopg.com            IN CNAME .
@@ -2102,7 +2101,6 @@ $TTL 1H
 3l.link            IN CNAME .
 3o.casino            IN CNAME .
 3o4tld.com            IN CNAME .
-3oyjeubkv.com            IN CNAME .
 3petalapg.com            IN CNAME .
 3pgpp.com            IN CNAME .
 3pgvip.com            IN CNAME .
@@ -4262,7 +4260,6 @@ $TTL 1H
 855win.com            IN CNAME .
 855win.net            IN CNAME .
 855win.vip            IN CNAME .
-856tbgvd.com            IN CNAME .
 8588win.com            IN CNAME .
 858bett.com            IN CNAME .
 85pg.vip            IN CNAME .
@@ -5396,7 +5393,6 @@ anotaai.xyz            IN CNAME .
 ansiar777.com            IN CNAME .
 antola.xyz            IN CNAME .
 anxietypg.com            IN CNAME .
-anzbxpyvr.com            IN CNAME .
 aokokpg.com            IN CNAME .
 aovivo.click            IN CNAME .
 aovivo.club            IN CNAME .
@@ -7959,7 +7955,6 @@ chilliflix.biz            IN CNAME .
 chilliflix.org            IN CNAME .
 chilliflix.vip            IN CNAME .
 chitaty.com            IN CNAME .
-chj3dv42d.com            IN CNAME .
 chloepg.vip            IN CNAME .
 chopardpg.com            IN CNAME .
 choraglobe.icu            IN CNAME .
@@ -9730,7 +9725,6 @@ dxd777.bet            IN CNAME .
 dxd777.com            IN CNAME .
 dyd777.com            IN CNAME .
 dzd777.com            IN CNAME .
-dzlnjxm4gt.com            IN CNAME .
 dzpfree.shop            IN CNAME .
 e0123movies.com            IN CNAME .
 e123moviefree.com            IN CNAME .
@@ -10130,7 +10124,6 @@ ffggpg.com            IN CNAME .
 ffggspg.com            IN CNAME .
 ffind.biz            IN CNAME .
 ffkpg2.com            IN CNAME .
-ffmebkdr.net            IN CNAME .
 ffmovies.biz            IN CNAME .
 ffmovies.click            IN CNAME .
 ffmovies.lol            IN CNAME .
@@ -10620,7 +10613,6 @@ flormk7.com            IN CNAME .
 flowone.top            IN CNAME .
 flowplay.com.br            IN CNAME .
 flowz.top            IN CNAME .
-flsrqkdex.com            IN CNAME .
 fltvo.xyz            IN CNAME .
 flutepg.com            IN CNAME .
 fluxvods.xyz            IN CNAME .
@@ -11723,7 +11715,6 @@ gugapg.com            IN CNAME .
 guia777.co            IN CNAME .
 guimbets365.club            IN CNAME .
 guitarra777.club            IN CNAME .
-guiyu.uk            IN CNAME .
 gungut.art            IN CNAME .
 gurubets.net            IN CNAME .
 guugli.org            IN CNAME .
@@ -12510,7 +12501,6 @@ jslinkdns.xyz            IN CNAME .
 judopg.com            IN CNAME .
 judoppg.com            IN CNAME .
 jue86.com            IN CNAME .
-juisxghqt.com            IN CNAME .
 jujubapgbet.com            IN CNAME .
 junpg.com            IN CNAME .
 juntorico.com            IN CNAME .
@@ -12702,7 +12692,6 @@ kuy80s.com            IN CNAME .
 kwaibetbr.com            IN CNAME .
 kwbet.bet            IN CNAME .
 kwikbet.co.ke            IN CNAME .
-kwpcsxlrj.com            IN CNAME .
 l6bet.com            IN CNAME .
 l6bet1.com            IN CNAME .
 l6bet2.com            IN CNAME .
@@ -13051,7 +13040,6 @@ lsbet.com            IN CNAME .
 lscliente.xyz            IN CNAME .
 lsiptv.com.br            IN CNAME .
 lsixbet.com            IN CNAME .
-lt8wxnwo.net            IN CNAME .
 lua777.cc            IN CNAME .
 lua777.com            IN CNAME .
 luarpg.com            IN CNAME .
@@ -14860,7 +14848,6 @@ nbet168.com            IN CNAME .
 nbet91.bet            IN CNAME .
 nbet91.com            IN CNAME .
 nbnbpg.com            IN CNAME .
-ncgsotdlf.com            IN CNAME .
 ncstvmax.com            IN CNAME .
 nczd9e.com            IN CNAME .
 nekopgth.com            IN CNAME .
@@ -16748,7 +16735,6 @@ ptsxpiptv.com            IN CNAME .
 pttwin.com            IN CNAME .
 ptvr.top            IN CNAME .
 ptwo.top            IN CNAME .
-puata.info            IN CNAME .
 pubyos.com            IN CNAME .
 pugpun.vip            IN CNAME .
 pulse-pg.com            IN CNAME .
@@ -17319,7 +17305,6 @@ rf777pg.com            IN CNAME .
 rfilmesonline.com            IN CNAME .
 rgbet.com            IN CNAME .
 rgbet6.com            IN CNAME .
-rhynw2kdug.com            IN CNAME .
 ricdns.com            IN CNAME .
 rich11bet.com            IN CNAME .
 richnow.co            IN CNAME .
@@ -17358,7 +17343,6 @@ rksporte.net            IN CNAME .
 rlclient.org            IN CNAME .
 rlsfilmestorrent.com            IN CNAME .
 rlsfilmestorrent.net            IN CNAME .
-rlvothwmd.com            IN CNAME .
 rmatacadoevarejo.com            IN CNAME .
 rmcfutebol.com            IN CNAME .
 rmtech.click            IN CNAME .
@@ -19072,7 +19056,6 @@ tomatopg.com            IN CNAME .
 tomjogo.bet            IN CNAME .
 tomwpg.com            IN CNAME .
 tomyer.in            IN CNAME .
-tonczybhs.com            IN CNAME .
 toopflix.cc            IN CNAME .
 top-canais.blogspot.com            IN CNAME .
 top-flix.org            IN CNAME .
@@ -19974,7 +19957,6 @@ ubet98.com            IN CNAME .
 ubet989.com            IN CNAME .
 ubetsports.io            IN CNAME .
 ubsx.net            IN CNAME .
-uc3pnvrmdj.com            IN CNAME .
 uclaro.net            IN CNAME .
 ucsxiptv.com            IN CNAME .
 uebi.top            IN CNAME .
@@ -20179,7 +20161,6 @@ uwin.top            IN CNAME .
 uxbet.vip            IN CNAME .
 uxsdns.top            IN CNAME .
 uysoty.com            IN CNAME .
-uzrcewpbo.com            IN CNAME .
 v1.snappea.me            IN CNAME .
 v220xpco.com            IN CNAME .
 v3dk.in            IN CNAME .
@@ -20505,7 +20486,6 @@ vlduade.com            IN CNAME .
 vmw12.com            IN CNAME .
 vmyfaci.club            IN CNAME .
 vmyfaci.xyz            IN CNAME .
-vnizowcta.com            IN CNAME .
 vnjogo.com            IN CNAME .
 vnoplay.com            IN CNAME .
 vnorecargas.com            IN CNAME .
@@ -21821,7 +21801,6 @@ zetta.cymru            IN CNAME .
 zeusplay.life            IN CNAME .
 zeusplayrevenda.online            IN CNAME .
 zfilmesonline.net            IN CNAME .
-zgy4jjba.com            IN CNAME .
 zhhbet.com            IN CNAME .
 zhhbett.com            IN CNAME .
 zip16.com            IN CNAME .
@@ -21853,7 +21832,6 @@ zseriesmegadrive.xyz            IN CNAME .
 zsomeljqy.com            IN CNAME .
 ztbest.xyz            IN CNAME .
 ztbox.top            IN CNAME .
-ztmawucox.com            IN CNAME .
 ztronth.online            IN CNAME .
 zvfpg.com            IN CNAME .
 zx8tzfq7.me            IN CNAME .
