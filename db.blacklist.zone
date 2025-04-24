@@ -1,6 +1,6 @@
 $TTL 1H
 @       IN      SOA LOCALHOST. localhost.localhost. (
-                2025041701     ; Serial
+                2025042401     ; Serial
                 1h              ; Refresh
                 15m             ; Retry
                 30d             ; Expire
@@ -8,7 +8,7 @@ $TTL 1H
         )
         NS  localhost.
     
-;Atualizado em: 17-04-2025 18:10:23
+;Atualizado em: 24-04-2025 10:30:27
 0001444.com            IN CNAME .
 0007bet.com            IN CNAME .
 0007bet1.com            IN CNAME .
@@ -3358,6 +3358,7 @@ $TTL 1H
 6666betg.com            IN CNAME .
 6666tiger.com            IN CNAME .
 6666win.bet            IN CNAME .
+6667.lat            IN CNAME .
 666bet.com            IN CNAME .
 666tiger.com            IN CNAME .
 666u.com            IN CNAME .
@@ -5429,6 +5430,7 @@ abr20.xyz            IN CNAME .
 abracar123.com            IN CNAME .
 abracar2024.com            IN CNAME .
 abracarpg.com            IN CNAME .
+abraceaenfermagem.com.br            IN CNAME .
 abre.xyz            IN CNAME .
 abrilbet.com            IN CNAME .
 abrirpg.com            IN CNAME .
@@ -5539,6 +5541,7 @@ ak8888.vip            IN CNAME .
 ak8888xx.com            IN CNAME .
 akak777.com            IN CNAME .
 akamaihost.xyz            IN CNAME .
+akcceal.click            IN CNAME .
 akdns.dev            IN CNAME .
 akjogo.com            IN CNAME .
 akure777.com            IN CNAME .
@@ -5887,6 +5890,7 @@ assistafilme.com            IN CNAME .
 assistaiptvaqui.shop            IN CNAME .
 assistaiptvplay.com            IN CNAME .
 assistasemlimites.com            IN CNAME .
+assistatv.me            IN CNAME .
 assistir.app            IN CNAME .
 assistir.biz            IN CNAME .
 assistir.club            IN CNAME .
@@ -6579,6 +6583,7 @@ besthdmovies.tube            IN CNAME .
 bestmp3converter.com            IN CNAME .
 bestpg.com            IN CNAME .
 bestpg.win            IN CNAME .
+bestplayflix.com            IN CNAME .
 bestream.in            IN CNAME .
 bestseriesonline.net            IN CNAME .
 bestwon78.com            IN CNAME .
@@ -7292,6 +7297,7 @@ bicicletapg.com            IN CNAME .
 bife777.com            IN CNAME .
 bifepg.com            IN CNAME .
 bigbets99.net            IN CNAME .
+bigblogger.com.br            IN CNAME .
 bigbrotherbrasil2024.online            IN CNAME .
 bigcdn.eu            IN CNAME .
 bigconv.com            IN CNAME .
@@ -7622,7 +7628,6 @@ br.betcris.com            IN CNAME .
 br.cl-drinkpg.bet            IN CNAME .
 br.cl-nezhapg.com            IN CNAME .
 br.cl-stitchpg.com            IN CNAME .
-br.cointelegraph.com            IN CNAME .
 br.ggpoker.com            IN CNAME .
 br.loveflix.online            IN CNAME .
 br.magicred.com            IN CNAME .
@@ -8090,6 +8095,7 @@ canaisplay.in            IN CNAME .
 canaisplay.ink            IN CNAME .
 canaisplay.la            IN CNAME .
 canaisplay.me            IN CNAME .
+canaisplay.net            IN CNAME .
 canaisplay.pro            IN CNAME .
 canaisplay.run            IN CNAME .
 canaisplay.top            IN CNAME .
@@ -8100,6 +8106,7 @@ canaispremium.net            IN CNAME .
 canaistop.click            IN CNAME .
 canaistop.com            IN CNAME .
 canaistop.fun            IN CNAME .
+canaistop.info            IN CNAME .
 canaistop.live            IN CNAME .
 canaistop.site            IN CNAME .
 canaistv.online            IN CNAME .
@@ -8390,6 +8397,7 @@ ccuevana3.skin            IN CNAME .
 ccuevana3.store            IN CNAME .
 ccuevana3.to            IN CNAME .
 ccuevana3.tv            IN CNAME .
+cdbnm.xyz            IN CNAME .
 cddfusion.com            IN CNAME .
 cdhu.in            IN CNAME .
 cdn-br.in            IN CNAME .
@@ -8478,6 +8486,7 @@ central.blueplay.fun            IN CNAME .
 central.tvprodigital.ca            IN CNAME .
 centralbr.top            IN CNAME .
 centraldasbets.net.br            IN CNAME .
+centraldecontas.site            IN CNAME .
 centralflix.me            IN CNAME .
 centralflix.online            IN CNAME .
 centralmago.click            IN CNAME .
@@ -8607,6 +8616,7 @@ cinemahdv2.net            IN CNAME .
 cinemanautas.store            IN CNAME .
 cinemao.pro            IN CNAME .
 cinemarecargas.com            IN CNAME .
+cinemaster.com.br            IN CNAME .
 cinematododia.online            IN CNAME .
 cineonline.site            IN CNAME .
 cineplaywl.top            IN CNAME .
@@ -9034,6 +9044,7 @@ corujaodofut.live            IN CNAME .
 corvopg.com            IN CNAME .
 costela.top            IN CNAME .
 costelinhajj.cf            IN CNAME .
+covidverificado.com.br            IN CNAME .
 cowpg.com            IN CNAME .
 coxinhas777.com            IN CNAME .
 cpaaa.bet            IN CNAME .
@@ -9065,7 +9076,6 @@ criancadapg.com            IN CNAME .
 criancafelizpg.com            IN CNAME .
 criancas777lg.com            IN CNAME .
 criokf.com            IN CNAME .
-criptofacil.com            IN CNAME .
 cristal-br.bet            IN CNAME .
 crixxusbet.com            IN CNAME .
 cro35.top            IN CNAME .
@@ -9893,6 +9903,7 @@ cuevana8.art            IN CNAME .
 cuevana8.buzz            IN CNAME .
 cuevana8.cloud            IN CNAME .
 cuevana8.com            IN CNAME .
+cuevana8.eu            IN CNAME .
 cuevana8.expert            IN CNAME .
 cuevana8.hair            IN CNAME .
 cuevana8.live            IN CNAME .
@@ -10084,6 +10095,7 @@ danielgarciaoficial.com            IN CNAME .
 danielgarciaoficial.org            IN CNAME .
 danielgarciaoficialbr.com            IN CNAME .
 danirecargas.com            IN CNAME .
+danirecargasgiftcards.com            IN CNAME .
 dark168.fun            IN CNAME .
 dark77.fun            IN CNAME .
 darthflix.com            IN CNAME .
@@ -11499,6 +11511,7 @@ fmovies.international            IN CNAME .
 fmovies.living            IN CNAME .
 fmovies.llc            IN CNAME .
 fmovies.lt            IN CNAME .
+fmovies.lu            IN CNAME .
 fmovies.movie            IN CNAME .
 fmovies.net.ng            IN CNAME .
 fmovies.net.pk            IN CNAME .
@@ -11527,6 +11540,7 @@ fmovies5.com            IN CNAME .
 fmovies88.com            IN CNAME .
 fmoviesa.com            IN CNAME .
 fmoviesafe.com            IN CNAME .
+fmoviesarena.org            IN CNAME .
 fmoviesbest.com            IN CNAME .
 fmoviesf.org            IN CNAME .
 fmoviesfo.cc            IN CNAME .
@@ -11603,6 +11617,8 @@ fontedecanais.shop            IN CNAME .
 fontedecanais.top            IN CNAME .
 fontedecanais.vip            IN CNAME .
 fontedoscanais.com            IN CNAME .
+fontedoscanais.fun            IN CNAME .
+fontedoscanais.live            IN CNAME .
 fonteruim.icu            IN CNAME .
 fony.fun            IN CNAME .
 footbalbets.com            IN CNAME .
@@ -11992,6 +12008,7 @@ futemax.vip            IN CNAME .
 futemax.wf            IN CNAME .
 futemax.wiki            IN CNAME .
 futemax.win            IN CNAME .
+futemax.world            IN CNAME .
 futemax.ws            IN CNAME .
 futemax.zip            IN CNAME .
 futemax1.app            IN CNAME .
@@ -12396,6 +12413,7 @@ glossybingo.com            IN CNAME .
 glyxo.online            IN CNAME .
 gmc03.com            IN CNAME .
 gmcc04.com            IN CNAME .
+gmrun.store            IN CNAME .
 go-123movies.com            IN CNAME .
 go-mp3.com            IN CNAME .
 go.betobet.online            IN CNAME .
@@ -12549,6 +12567,7 @@ gpawin.com            IN CNAME .
 gpawin.vip            IN CNAME .
 gprbet.com            IN CNAME .
 gpspg.com            IN CNAME .
+gpthzhx.top            IN CNAME .
 gr4e5a9cxf8bvjya0y6a4h3g.online            IN CNAME .
 grabfrom.com            IN CNAME .
 grafitti123.com            IN CNAME .
@@ -13007,6 +13026,7 @@ hiper77.com            IN CNAME .
 hipercine.online            IN CNAME .
 hiperfilmes.org            IN CNAME .
 hiperfilmestorrent.com            IN CNAME .
+hiperfilmestorrent.pro            IN CNAME .
 hiperflixhd.net            IN CNAME .
 hiperflixhd.to            IN CNAME .
 hiperflixtv.com            IN CNAME .
@@ -13376,6 +13396,7 @@ jhbets.com            IN CNAME .
 jhnp.xyz            IN CNAME .
 jhonpg.bet            IN CNAME .
 jhonpg.com            IN CNAME .
+jhorplay.life            IN CNAME .
 jhorplay.live            IN CNAME .
 jili707.com            IN CNAME .
 jili707.vip            IN CNAME .
@@ -14440,6 +14461,7 @@ maintenance.bet3000.de            IN CNAME .
 mainup.top            IN CNAME .
 maiorsports.com            IN CNAME .
 maisbets.com            IN CNAME .
+maiscanais.click            IN CNAME .
 maisfilmeseseries.com            IN CNAME .
 maisflix.com            IN CNAME .
 maislog.top            IN CNAME .
@@ -14689,6 +14711,7 @@ megafilme.shop            IN CNAME .
 megafilmehd.online            IN CNAME .
 megafilmehd20.pro            IN CNAME .
 megafilmehd50.com            IN CNAME .
+megafilmehdseries.org            IN CNAME .
 megafilmes.bet            IN CNAME .
 megafilmes.blog            IN CNAME .
 megafilmes.city            IN CNAME .
@@ -14893,6 +14916,7 @@ megafilmess.vip            IN CNAME .
 megafilmesserieshd.co            IN CNAME .
 megafilmessonlinebr.net            IN CNAME .
 megafilmessonlinehd.net            IN CNAME .
+megafilmestorrent.site            IN CNAME .
 megafilmestorrent.top            IN CNAME .
 megafilmestorrent.vip            IN CNAME .
 megafilmestorrent50.org            IN CNAME .
@@ -15501,6 +15525,7 @@ moviesnation.ch            IN CNAME .
 moviesnation.city            IN CNAME .
 moviesnation.co            IN CNAME .
 moviesnation.co.in            IN CNAME .
+moviesnation.codes            IN CNAME .
 moviesnation.com.im            IN CNAME .
 moviesnation.cool            IN CNAME .
 moviesnation.cx            IN CNAME .
@@ -15714,6 +15739,7 @@ multicanais.fans            IN CNAME .
 multicanais.fi            IN CNAME .
 multicanais.fish            IN CNAME .
 multicanais.fit            IN CNAME .
+multicanais.florist            IN CNAME .
 multicanais.fm            IN CNAME .
 multicanais.fo            IN CNAME .
 multicanais.foo            IN CNAME .
@@ -15750,6 +15776,7 @@ multicanais.is            IN CNAME .
 multicanais.ist            IN CNAME .
 multicanais.it            IN CNAME .
 multicanais.je            IN CNAME .
+multicanais.ke            IN CNAME .
 multicanais.kiwi            IN CNAME .
 multicanais.krd            IN CNAME .
 multicanais.la            IN CNAME .
@@ -16392,6 +16419,7 @@ novelassflix.com            IN CNAME .
 novizer.com            IN CNAME .
 novizer.site            IN CNAME .
 novobets.vip            IN CNAME .
+novobmwx3.com.br            IN CNAME .
 novobrasil.net            IN CNAME .
 novomegafilmeshd.org            IN CNAME .
 novorateio.com            IN CNAME .
@@ -16445,6 +16473,7 @@ obaflix.to            IN CNAME .
 obaflix.top            IN CNAME .
 obaflix.vip            IN CNAME .
 obaflixhd.me            IN CNAME .
+obcom-usp.com.br            IN CNAME .
 obet1998.com            IN CNAME .
 obet2023.com            IN CNAME .
 obet24.com            IN CNAME .
@@ -16470,6 +16499,7 @@ offmp3.net            IN CNAME .
 offmp3.services            IN CNAME .
 offx.me            IN CNAME .
 oficialbet.com            IN CNAME .
+oficialcinevision.com            IN CNAME .
 oficialeppicinema.com            IN CNAME .
 oficialgoldcard.shop            IN CNAME .
 oficialmfc.com            IN CNAME .
@@ -16483,6 +16513,7 @@ oficialtvexpress.online            IN CNAME .
 oficialtvexpress.pro            IN CNAME .
 oficialtvexpress.xyz            IN CNAME .
 oficialtyflex.online            IN CNAME .
+oftalmounifesp.com.br            IN CNAME .
 ofuturo.click            IN CNAME .
 ofwshow.online            IN CNAME .
 ofwshow.ru            IN CNAME .
@@ -16595,6 +16626,7 @@ oneplaytv.red            IN CNAME .
 oneppi.com            IN CNAME .
 oneprimetv.me            IN CNAME .
 onerecarga.com            IN CNAME .
+onerecargas.com            IN CNAME .
 onetv.pro            IN CNAME .
 onetv1.tv            IN CNAME .
 oniontv.site            IN CNAME .
@@ -16857,6 +16889,7 @@ p2bit.info            IN CNAME .
 p2box.top            IN CNAME .
 p2cine.net            IN CNAME .
 p2cineshow.fun            IN CNAME .
+p2cinetv.com            IN CNAME .
 p2cinetv.online            IN CNAME .
 p2elite.com            IN CNAME .
 p2escolhatec.com            IN CNAME .
@@ -17628,6 +17661,7 @@ pobreflix.vc            IN CNAME .
 pobreflix.vip            IN CNAME .
 pobreflix.vision            IN CNAME .
 pobreflix.world            IN CNAME .
+pobreflix.ws            IN CNAME .
 pobreflix.xyz            IN CNAME .
 pobreflix.zip            IN CNAME .
 pobreflix1.art            IN CNAME .
@@ -17712,6 +17746,7 @@ pobreflixtv.cam            IN CNAME .
 pobreflixtv.cc            IN CNAME .
 pobreflixtv.co            IN CNAME .
 pobreflixtv.com            IN CNAME .
+pobreflixtv.dev            IN CNAME .
 pobreflixtv.fans            IN CNAME .
 pobreflixtv.foo            IN CNAME .
 pobreflixtv.im            IN CNAME .
@@ -17998,6 +18033,7 @@ powbet.com            IN CNAME .
 power-conect.xyz            IN CNAME .
 powerbet.cash            IN CNAME .
 powerfun.xyz            IN CNAME .
+poweriptv.com.br            IN CNAME .
 powerplay.click            IN CNAME .
 pp6.ltd            IN CNAME .
 pp6.shop            IN CNAME .
@@ -18294,6 +18330,7 @@ recargabluetv.us            IN CNAME .
 recargabluetvbrasil.com.br            IN CNAME .
 recargabox.info            IN CNAME .
 recargaboxredplay.com            IN CNAME .
+recargacard.shop            IN CNAME .
 recargacode.com            IN CNAME .
 recargadigital.com            IN CNAME .
 recargadunatv.com            IN CNAME .
@@ -18350,6 +18387,8 @@ recargasunitv.com            IN CNAME .
 recargasvip.store            IN CNAME .
 recargasvno.com            IN CNAME .
 recargatve.com.br            IN CNAME .
+recargatveexpress.com            IN CNAME .
+recargatveoficial.com            IN CNAME .
 recargatvexpress.app            IN CNAME .
 recargatvexpress.com            IN CNAME .
 recargatvexpress.com.br            IN CNAME .
@@ -19073,6 +19112,7 @@ seriesflix.click            IN CNAME .
 seriesflix.com.im            IN CNAME .
 seriesflix.cv            IN CNAME .
 seriesflix.cx            IN CNAME .
+seriesflix.date            IN CNAME .
 seriesflix.day            IN CNAME .
 seriesflix.dev            IN CNAME .
 seriesflix.fit            IN CNAME .
@@ -19901,6 +19941,7 @@ supercanal-aovivo.com            IN CNAME .
 supercine.com.im            IN CNAME .
 supercine.live            IN CNAME .
 supercine.to            IN CNAME .
+supercine.top            IN CNAME .
 superesportes.net            IN CNAME .
 superesportes13.bet            IN CNAME .
 superfilmes.ac            IN CNAME .
@@ -20069,6 +20110,7 @@ superflix8.vip            IN CNAME .
 superflix9.vip            IN CNAME .
 superflixanimes.com            IN CNAME .
 superflixapi.cc            IN CNAME .
+superflixapi.co            IN CNAME .
 superflixapi.com            IN CNAME .
 superflixapi.cx            IN CNAME .
 superflixapi.dev            IN CNAME .
@@ -20125,6 +20167,7 @@ superflixtv.com            IN CNAME .
 superflixtv.life            IN CNAME .
 superflixtv.link            IN CNAME .
 superflixtv.live            IN CNAME .
+superflixtv.me            IN CNAME .
 superflixtv.net            IN CNAME .
 superflixtv.org            IN CNAME .
 superflixtv.site            IN CNAME .
@@ -20539,6 +20582,7 @@ thepiratefilmshd.tech            IN CNAME .
 thepiratemovies4k.tech            IN CNAME .
 thepiratemovieshd.tech            IN CNAME .
 thepiratesfilmes.net            IN CNAME .
+thepiratesfilmes.org            IN CNAME .
 thepiratetorrents.org            IN CNAME .
 thepirattefilmeshd.fun            IN CNAME .
 thepirattefilmeshd.info            IN CNAME .
@@ -20589,6 +20633,7 @@ tiramisupg.com            IN CNAME .
 tirasjogo.com            IN CNAME .
 tiraswin.com            IN CNAME .
 titanbet.com            IN CNAME .
+titaniumtv.com.br            IN CNAME .
 titapg.com            IN CNAME .
 tk9797.com            IN CNAME .
 tkbpg.com            IN CNAME .
@@ -20929,6 +20974,7 @@ topsagitario.win            IN CNAME .
 topseriesflix.me            IN CNAME .
 topserver.cloud            IN CNAME .
 topserver.fun            IN CNAME .
+topserver.tech            IN CNAME .
 topservidor.pro            IN CNAME .
 topservidor.tech            IN CNAME .
 toptvdigital.xyz            IN CNAME .
@@ -21160,10 +21206,12 @@ tupt.live            IN CNAME .
 tuptu15.art            IN CNAME .
 tuptu19.art            IN CNAME .
 turbinadapg.com            IN CNAME .
+turbocdn.sbs            IN CNAME .
 turbopg.com            IN CNAME .
 turboredplay.com            IN CNAME .
 turboxlink.xyz            IN CNAME .
 turf7.com            IN CNAME .
+turismo2rodas.com.br            IN CNAME .
 turtle-ty.com            IN CNAME .
 turtle51.com            IN CNAME .
 turtlety.com            IN CNAME .
@@ -21401,6 +21449,8 @@ tvget.live            IN CNAME .
 tvgoldcard.website            IN CNAME .
 tvhd.ws            IN CNAME .
 tvhd7.com            IN CNAME .
+tvhdblack.pro            IN CNAME .
+tvhdonline.com.br            IN CNAME .
 tvhdonline2.com            IN CNAME .
 tvlbox.com            IN CNAME .
 tvodigital.click            IN CNAME .
@@ -21437,6 +21487,7 @@ tvprodigital.top            IN CNAME .
 tvprorevendas.xyz            IN CNAME .
 tvrecarga.net            IN CNAME .
 tvrecargas.com.br            IN CNAME .
+tvrecargas.online            IN CNAME .
 tvrecharge.shop            IN CNAME .
 tvredplay.com            IN CNAME .
 tvs.futbol            IN CNAME .
@@ -21444,6 +21495,7 @@ tvs2.co            IN CNAME .
 tvsbr.red            IN CNAME .
 tvsbt.top            IN CNAME .
 tvseriesonline.cc            IN CNAME .
+tvsfut.com            IN CNAME .
 tvtap.site            IN CNAME .
 tvtopcanais.com            IN CNAME .
 tvultraplus.com            IN CNAME .
@@ -21674,6 +21726,7 @@ unitv.app            IN CNAME .
 unitv.club            IN CNAME .
 unitv.ink            IN CNAME .
 unitv.life            IN CNAME .
+unitv.network            IN CNAME .
 unitv.online            IN CNAME .
 unitv.video            IN CNAME .
 unitv4k.com.br            IN CNAME .
@@ -21693,6 +21746,7 @@ unitvpro.pro            IN CNAME .
 unitvpro.xyz            IN CNAME .
 unitvprobr.com            IN CNAME .
 unitvprooficial.com            IN CNAME .
+unitvprorecarga.com            IN CNAME .
 unitvprovip.com            IN CNAME .
 unitvprovip.com.br            IN CNAME .
 unitvrecarga.blog            IN CNAME .
@@ -22018,6 +22072,7 @@ vipze66.com            IN CNAME .
 viradabet.com            IN CNAME .
 virginia-pg.com            IN CNAME .
 virpg.com            IN CNAME .
+virtua.tv            IN CNAME .
 virtualbets.net            IN CNAME .
 vis.blue            IN CNAME .
 visa.moi            IN CNAME .
@@ -22117,6 +22172,7 @@ vizertv.blog            IN CNAME .
 vizertv.blue            IN CNAME .
 vizertv.cam            IN CNAME .
 vizertv.cc            IN CNAME .
+vizertv.cfd            IN CNAME .
 vizertv.ch            IN CNAME .
 vizertv.click            IN CNAME .
 vizertv.club            IN CNAME .
@@ -22242,6 +22298,7 @@ vxo776.com            IN CNAME .
 vxo778.com            IN CNAME .
 vzon.xyz            IN CNAME .
 w-bet.site            IN CNAME .
+w-play.tv            IN CNAME .
 w-y2mate.com            IN CNAME .
 w.777.apostas.game            IN CNAME .
 w.brtatu.com            IN CNAME .
@@ -22385,6 +22442,9 @@ walruspg.com            IN CNAME .
 walthx.online            IN CNAME .
 waltory.xyz            IN CNAME .
 wanabet-games.com            IN CNAME .
+wapp-tv.com            IN CNAME .
+wapptvcanais.com            IN CNAME .
+wapptvcanais.com.br            IN CNAME .
 warez.la            IN CNAME .
 warez.red            IN CNAME .
 warezcdn.com            IN CNAME .
@@ -22969,6 +23029,7 @@ wplay.co            IN CNAME .
 wplay.vip            IN CNAME .
 wplayiptv.com.br            IN CNAME .
 wplaystreaming.top            IN CNAME .
+wplaytv.app            IN CNAME .
 wsmcasino.vip            IN CNAME .
 wsspg.com            IN CNAME .
 wsw777.com            IN CNAME .
@@ -22992,6 +23053,7 @@ ww29.animesonline.online            IN CNAME .
 ww3.pelisplus.is            IN CNAME .
 ww3.pelisplus.to            IN CNAME .
 ww38.ytmp3.hair            IN CNAME .
+ww4-fmovies.com            IN CNAME .
 ww4-fmovies.lol            IN CNAME .
 ww4.listentoyt.com            IN CNAME .
 ww88web.asia            IN CNAME .
@@ -23222,6 +23284,7 @@ xocu.in            IN CNAME .
 xogrupo.vip            IN CNAME .
 xojogo4.com            IN CNAME .
 xomibet.com            IN CNAME .
+xonados.net            IN CNAME .
 xonadosportvs.com            IN CNAME .
 xonadostv.net            IN CNAME .
 xp2.wtf            IN CNAME .
