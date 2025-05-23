@@ -1,6 +1,6 @@
 $TTL 1H
 @       IN      SOA LOCALHOST. localhost.localhost. (
-                2025051201     ; Serial
+                2025052301     ; Serial
                 1h              ; Refresh
                 15m             ; Retry
                 30d             ; Expire
@@ -8,7 +8,7 @@ $TTL 1H
         )
         NS  localhost.
     
-;Atualizado em: 12-05-2025 16:47:44
+;Atualizado em: 23-05-2025 10:09:50
 0001444.com            IN CNAME .
 0007bet.com            IN CNAME .
 0007bet.net            IN CNAME .
@@ -10588,6 +10588,7 @@ danca123.com            IN CNAME .
 danca2024.com            IN CNAME .
 danfs.xyz            IN CNAME .
 danielgarciaaleiloes.com            IN CNAME .
+danielgarciagrupo.site            IN CNAME .
 danielgarcialeilao.org            IN CNAME .
 danielgarcialeilaos.com            IN CNAME .
 danielgarcialeilloes.com            IN CNAME .
@@ -19384,6 +19385,7 @@ redecanaisapk.xyz            IN CNAME .
 redecanaisbr.me            IN CNAME .
 redecanaisfilm.me            IN CNAME .
 redecanaisfilmes.top            IN CNAME .
+redecanaisgo.me            IN CNAME .
 redecanaishd.app            IN CNAME .
 redecanaishd.art            IN CNAME .
 redecanaishd.asia            IN CNAME .
@@ -19394,6 +19396,7 @@ redecanaishd.cc            IN CNAME .
 redecanaishd.click            IN CNAME .
 redecanaishd.co            IN CNAME .
 redecanaishd.com            IN CNAME .
+redecanaishd.icu            IN CNAME .
 redecanaishd.im            IN CNAME .
 redecanaishd.info            IN CNAME .
 redecanaishd.lol            IN CNAME .
@@ -19407,6 +19410,7 @@ redecanaishd.shop            IN CNAME .
 redecanaishd.top            IN CNAME .
 redecanaishd.uno            IN CNAME .
 redecanaishd.vc            IN CNAME .
+redecanaishd.vin            IN CNAME .
 redecanaishd.vip            IN CNAME .
 redecanaislive.me            IN CNAME .
 redecanaisplay.me            IN CNAME .
@@ -19446,6 +19450,7 @@ redecanaistv.net            IN CNAME .
 redecanaistv.online            IN CNAME .
 redecanaistv.org            IN CNAME .
 redecanaistv.plus            IN CNAME .
+redecanaistv.pro            IN CNAME .
 redecanaistv.ps            IN CNAME .
 redecanaistv.red            IN CNAME .
 redecanaistv.shop            IN CNAME .
@@ -20335,6 +20340,7 @@ seuseriadoonline.com            IN CNAME .
 seuseriadoonline.net            IN CNAME .
 seuseriadoonline.org            IN CNAME .
 seuseriados.live            IN CNAME .
+seusrateio.com            IN CNAME .
 seuwin.cc            IN CNAME .
 seuwin.com            IN CNAME .
 seuwin.net            IN CNAME .
