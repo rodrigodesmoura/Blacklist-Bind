@@ -1,6 +1,6 @@
 $TTL 1H
 @       IN      SOA LOCALHOST. localhost.localhost. (
-                2025063001     ; Serial
+                2025070901     ; Serial
                 1h              ; Refresh
                 15m             ; Retry
                 30d             ; Expire
@@ -8,7 +8,7 @@ $TTL 1H
         )
         NS  localhost.
     
-;Atualizado em: 30-06-2025 13:30:53
+;Atualizado em: 09-07-2025 17:39:13
 0001444.com            IN CNAME .
 0007bet.com            IN CNAME .
 0007bet.net            IN CNAME .
@@ -8040,7 +8040,6 @@ betpg66.com            IN CNAME .
 betpg6666.com            IN CNAME .
 betpitaco.com            IN CNAME .
 betpix.com            IN CNAME .
-betpix365.com            IN CNAME .
 betpixviva.com            IN CNAME .
 betplay.io            IN CNAME .
 betplay27plus.net            IN CNAME .
@@ -8728,7 +8727,6 @@ br-loop.com            IN CNAME .
 br-louisvuitton.bet            IN CNAME .
 br-noel.com            IN CNAME .
 br-trofeu.vip            IN CNAME .
-br.1xbet.com            IN CNAME .
 br.888casino.com            IN CNAME .
 br.assistirseriesonlinegratis.online            IN CNAME .
 br.betcris.com            IN CNAME .
@@ -9100,7 +9098,6 @@ bugbum.art            IN CNAME .
 bulebet.com            IN CNAME .
 bulgari-777.com            IN CNAME .
 bullionpg.com            IN CNAME .
-bullsbet.bet            IN CNAME .
 bullsslot.co            IN CNAME .
 bulpg.com            IN CNAME .
 bunbus.org            IN CNAME .
@@ -10007,7 +10004,6 @@ clbtop.top            IN CNAME .
 cldd.xyz            IN CNAME .
 cldnew.com            IN CNAME .
 cldplay.in            IN CNAME .
-click2bet.net            IN CNAME .
 clickbets.com.br            IN CNAME .
 clickbrt.com            IN CNAME .
 clickgen.link            IN CNAME .
@@ -11347,7 +11343,6 @@ cuia777.com            IN CNAME .
 cuiababet.club            IN CNAME .
 culbpg.com            IN CNAME .
 cunbet.com            IN CNAME .
-cunbet6.com            IN CNAME .
 cunbet7.com            IN CNAME .
 cunbet9.com            IN CNAME .
 cupid777.com            IN CNAME .
@@ -15662,7 +15657,6 @@ lacuevana2.tattoo            IN CNAME .
 lacuevana3.com            IN CNAME .
 lacuevanatv.com            IN CNAME .
 lacuevanavia.com            IN CNAME .
-ladbrokes.com            IN CNAME .
 lafite-777.com            IN CNAME .
 lagostapg777.com            IN CNAME .
 laispg.com            IN CNAME .
@@ -17211,7 +17205,6 @@ megatvonline.top            IN CNAME .
 megaultra.top            IN CNAME .
 megavizer.com            IN CNAME .
 mejorcasino.mx            IN CNAME .
-mejorcasinos.mx            IN CNAME .
 mel881.com            IN CNAME .
 melaojogo.com            IN CNAME .
 melbet-181346.top            IN CNAME .
@@ -18619,7 +18612,6 @@ o9q7m6.com            IN CNAME .
 oakleafpg.com            IN CNAME .
 oakleypg.com            IN CNAME .
 oasys.bet            IN CNAME .
-obabet.com            IN CNAME .
 obaflix.biz            IN CNAME .
 obaflix.clic            IN CNAME .
 obaflix.click            IN CNAME .
@@ -20636,7 +20628,6 @@ qyt9hta9.info            IN CNAME .
 qz9xs.biz            IN CNAME .
 qzarqm0w0h.com            IN CNAME .
 qzq.1ba777pg.com            IN CNAME .
-qzq.simba777pg.com            IN CNAME .
 r123movies.com            IN CNAME .
 r1play.com            IN CNAME .
 r2cli.xyz            IN CNAME .
@@ -22055,7 +22046,6 @@ silpg.com            IN CNAME .
 silverplay.site            IN CNAME .
 simp3.de            IN CNAME .
 simpleyoutubeconverter.com            IN CNAME .
-simpsonspg.com            IN CNAME .
 sinais-w1-voy-we.com.br            IN CNAME .
 sinaisdogugajunior.com            IN CNAME .
 sinalbr.xyz            IN CNAME .
@@ -22301,7 +22291,6 @@ sportbetbrasil.com            IN CNAME .
 sportbetbrasil.net            IN CNAME .
 sportbetbrasil2.com            IN CNAME .
 sportbetgol.club            IN CNAME .
-sportbrasil.bet            IN CNAME .
 sportbrasil.net            IN CNAME .
 sportingbet-365.com            IN CNAME .
 sportingbet-brasil.com            IN CNAME .
