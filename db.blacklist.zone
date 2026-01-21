@@ -1,6 +1,6 @@
 $TTL 1H
 @       IN      SOA LOCALHOST. localhost.localhost. (
-                2026011601     ; Serial
+                2026012101     ; Serial
                 1h              ; Refresh
                 15m             ; Retry
                 30d             ; Expire
@@ -8,7 +8,7 @@ $TTL 1H
         )
         NS  localhost.
     
-;Atualizado em: 16-01-2026 10:11:02
+;Atualizado em: 21-01-2026 10:31:50
 0001444.com            IN CNAME .
 0007bet.com            IN CNAME .
 0007bet.net            IN CNAME .
@@ -25118,6 +25118,7 @@ megatopflix.co            IN CNAME .
 megatopflix.com            IN CNAME .
 megatorrent.fun            IN CNAME .
 megatorrent.net            IN CNAME .
+megatorrent.online            IN CNAME .
 megatorrent.tv            IN CNAME .
 megatorrent4k.com            IN CNAME .
 megatorrent4k.site            IN CNAME .
@@ -26271,6 +26272,7 @@ multicanaisbr.top            IN CNAME .
 multicanaisfans.com            IN CNAME .
 multicanaisfc.com            IN CNAME .
 multicanaishd.at            IN CNAME .
+multicanaishd.baby            IN CNAME .
 multicanaishd.bar            IN CNAME .
 multicanaishd.blog            IN CNAME .
 multicanaishd.bond            IN CNAME .
@@ -26753,6 +26755,7 @@ netcinepx.lat            IN CNAME .
 netciner.lat            IN CNAME .
 netcinerx.lat            IN CNAME .
 netcines.lat            IN CNAME .
+netcinest.lat            IN CNAME .
 netcinett.lat            IN CNAME .
 netcinetv.bz            IN CNAME .
 netcinetv.ch            IN CNAME .
@@ -29727,6 +29730,7 @@ popbra.com            IN CNAME .
 popbra11.com            IN CNAME .
 popbra55.com            IN CNAME .
 popbrapronto.com            IN CNAME .
+popfilmes.org            IN CNAME .
 popfilmestorrent.org            IN CNAME .
 popkz91.com            IN CNAME .
 poplua0.com            IN CNAME .
@@ -33745,6 +33749,7 @@ superflix.bet            IN CNAME .
 superflix.bid            IN CNAME .
 superflix.bio            IN CNAME .
 superflix.biz            IN CNAME .
+superflix.biz.id            IN CNAME .
 superflix.black            IN CNAME .
 superflix.blog            IN CNAME .
 superflix.buzz            IN CNAME .
@@ -33863,6 +33868,7 @@ superflix20.site            IN CNAME .
 superflix21.lol            IN CNAME .
 superflix22.lol            IN CNAME .
 superflix23.lol            IN CNAME .
+superflix24.lol            IN CNAME .
 superflix3.com            IN CNAME .
 superflix4k.net            IN CNAME .
 superflix4k.vip            IN CNAME .
@@ -39155,6 +39161,7 @@ xfilmehd.online            IN CNAME .
 xfilmes.co            IN CNAME .
 xfilmes.me            IN CNAME .
 xfilmes.org            IN CNAME .
+xfilmestorrent.com            IN CNAME .
 xfilmestorrent.org            IN CNAME .
 xfilmestorrent.xyz            IN CNAME .
 xflix.site            IN CNAME .
